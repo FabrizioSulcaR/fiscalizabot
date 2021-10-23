@@ -19,13 +19,12 @@ z = x.read_i()
 
 def compute():
     if len(y) == int(z[0]):
-        print('Ninguna visita nueva')
+        pass
     else:
         for i in range(len(y) - int((z)[0])):
             x.post(y,i)
             x.upgrade_i(x.read_i())
             time.sleep(1)
+        final = time.time()
 
 compute()
-final = time.time()
-print("TIEMPO DE EJECUCIÓN",final-inicio)
