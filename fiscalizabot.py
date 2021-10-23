@@ -17,7 +17,6 @@ class TweetBot:
     def read_info(self):
         with open("visitas.json", "r", encoding="utf8") as f:
             data = json.load(f)
-            print('¡Visitas cargadas!')
         return data
     
     def read_i(self):
@@ -26,7 +25,7 @@ class TweetBot:
         return line
     
     def post(self,data,i):
-        api.update_status('Reunión presidencial N° ' + str(int(i) +1) + ' - ' + str(data[i]['Fecha']) + '\n' +  'El presidente Pedro Castillo Terrones se reunió hoy con ' + str(data[i]['Visitante'].title()) + ', ' + str(data[i]['Entidad']) + '.' + '\n' + 'La reunión se llevó a cabo desde las ' + str(data[i]['Hora_ingreso'] + ' hasta las ' + str(data[i]['Hora_salida'])))
+        api.update_status('Reunión presidencial N°' + str(int(i) +1)  + ' - ' + str(data[i]['Fecha']) + '\n' +  'El presidente Pedro Castillo Terrones se reunió hoy con ' + str(data[i]['Visitante'].title()) + ', ' + str(data[i]['Entidad']) + '.' + '\n' + 'La reunión se llevó a cabo desde las ' + str(data[i]['Hora_ingreso'] + ' hasta las ' + str(data[i]['Hora_salida'])))
 
         print('La visita de ' + str(data[i]['Visitante']) + ' ha sido tuiteada.')
         print('\n')
