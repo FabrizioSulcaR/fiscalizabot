@@ -526,5 +526,17 @@
         "Hora_ingreso": "14:48",
         "Hora_salida": "17:15",
         "Observacion": ""
+    },
+    {
+        "Fecha": "23/12/2021",
+        "Visitante": "BENDEZU HERNANDEZ PERCY OMAR",
+        "Documento": "DNI 70468835",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: Entrega de bienes",
+        "Empleado_publico": "HUAYLLASCO FIGUEROA ENRIQUE ",
+        "Oficina_cargo": "AREA DE ALMACEN",
+        "Hora_ingreso": "17:04",
+        "Hora_salida": "17:26",
+        "Observacion": ""
     }
 ]
