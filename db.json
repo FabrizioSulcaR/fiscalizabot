@@ -550,5 +550,41 @@
         "Hora_ingreso": "15:17",
         "Hora_salida": "17:40",
         "Observacion": ""
+    },
+    {
+        "Fecha": "23/12/2021",
+        "Visitante": "CASTRO POSADAS PAUL",
+        "Documento": "DNI 44880882",
+        "Entidad": "DINI",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "15:17",
+        "Hora_salida": "18:34",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "23/12/2021",
+        "Visitante": "SALAS GARCIA ORLANDO GERARDO",
+        "Documento": "DNI 08684269",
+        "Entidad": "DINI",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "15:18",
+        "Hora_salida": "18:33",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "23/12/2021",
+        "Visitante": "YOCTUN CABRERA LENIN",
+        "Documento": "DNI 40901965",
+        "Entidad": "DINI",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "15:48",
+        "Hora_salida": "18:34",
+        "Observacion": ""
     }
 ]
