@@ -1,0 +1,26 @@
+name: Check if dataset changed
+
+on:
+  workflow_dispatch:
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.6
+    - name: Install Python dependencies
+      run: |
+        pip install -r r.txt
+    - name: Load dataset only if changes detected + Processing
+      run: |
+        python runner_scraper.py
+    - name: Commit and push
+      uses: actions-js/push@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
