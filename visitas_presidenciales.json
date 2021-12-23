@@ -1,0 +1,26 @@
+[
+    {
+        "Fecha": "22/12/2021",
+        "Visitante": "LLANOS GUEVARA SEGUNDO JULIAN",
+        "Documento": "DNI 09018423",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "14:20",
+        "Hora_salida": "15:14",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "22/12/2021",
+        "Visitante": "CUBAS LLONTOP JORGE FERNANDO",
+        "Documento": "DNI 16599016",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "14:20",
+        "Hora_salida": "15:15",
+        "Observacion": ""
+    }
+]

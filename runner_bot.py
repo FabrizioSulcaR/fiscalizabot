@@ -1,12 +1,14 @@
 from fiscalizabot import TweetBot
+from dotenv import load_dotenv
 import time
-import json
 import tweepy
+import os
 
-API_KEY = '9ibaF7QN1evE7D9iiKEuzjkd0'
-API_SECRET_KEY = 'fErUQSutaiFFT5beLZdO5cPMtRK54z1ui8nZupA1ZGi3HGYrcr'
-ACCESS_TOKEN = '1449425397259673602-si8G3IJMzE3Lo3sCQblK57O0OzigGc'
-ACCESS_SECRET_TOKEN = 'pfzM0kqnV1oEM4OEhkCQ9y4A1Gb9TbmkmdLzL6B0aQCpv'
+
+API_KEY = os.getenv('API_KEY')
+API_SECRET_KEY = os.getenv('API_SECRET_KEY')
+ACCESS_TOKEN = os.getenv('ACCESS_TOKEN')
+ACCESS_SECRET_TOKEN = os.getenv('ACCESS_SECRET_TOKEN')
 
 auth= tweepy.OAuthHandler(API_KEY, API_SECRET_KEY)
 auth.set_access_token(ACCESS_TOKEN, ACCESS_SECRET_TOKEN)
@@ -16,15 +18,18 @@ inicio = time.time()
 x = TweetBot()
 y = x.read_info()
 z = x.read_i()
+intros = x.read_intros()
 
 def compute():
     if len(y) == int(z[0]):
         pass
     else:
         for i in range(len(y) - int((z)[0])):
-            x.post(y,i)
+            x.post(y,int(z[0])+i, intros)
             x.upgrade_i(x.read_i())
-            time.sleep(1)
+            time.sleep(3)
         final = time.time()
+        print(final-inicio)
 
+load_dotenv()
 compute()

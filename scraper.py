@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import json
 import requests
 import pandas as pd
+from datetime import date
 
 class Scraper:
     def __init__(self):
@@ -32,8 +33,13 @@ class Scraper:
     def save_info(self,df):
         results = df.to_json(orient="records")
         parsed = json.loads(results)
-        with open('db.json','w',encoding='utf-8') as file:
-            json.dump(parsed, file,ensure_ascii=False, indent=4)
+        with open('db.json','r',encoding='utf-8') as file:
+            data = json.load(file)
+            data.extend(parsed)
+            res = []
+            [res.append(x) for x in data if x not in res]
+        with open('db.json','w', encoding='utf-8') as file:
+            json.dump(res, file,ensure_ascii=False, indent=4)
         return True  
 
     def compute(self):
@@ -49,12 +55,23 @@ class Filter:
     def read_info(self):
         with open("db.json", "r", encoding="utf8") as f:
             data = json.load(f)
+        with open("db.json", "w", encoding="utf8") as f:
+            res = []
+            [res.append(x) for x in data if x not in res]
+            json.dump(res, f,ensure_ascii=False, indent=4)
         return data
     
     def searcher_visitas(self,data):
-        db_visitas = [data[i] for i in range(len(data)) if data[i]['Empleado_publico'] == 'CASTILLO TERRONES JOSE PEDRO']
-        with open('visitas.json','w',encoding='utf-8') as file:
-            json.dump(db_visitas, file,ensure_ascii=False, indent=4)
+        today = date.today().strftime("%d/%m/%Y")
+        data = list(filter(lambda x: x['Fecha']==str(today), data))
+        db_visitas = [data[i] for i in range(len(data)) if data[i]['Oficina_cargo'] == 'PRESIDENCIA DE LA REPÚBLICA']
+        with open('visitas_presidenciales.json', 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            data.extend(db_visitas)
+            res = []
+            [res.append(x) for x in data if x not in res]
+        with open('visitas_presidenciales.json', 'w', encoding='utf-8') as f:
+            json.dump(res, f,ensure_ascii=False, indent=4)
         return True
     
     def compute(self):

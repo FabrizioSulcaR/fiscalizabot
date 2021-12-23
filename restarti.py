@@ -1,3 +1,3 @@
 #El crontab debe ejecutarlo cada día a medianoche
-file1 = open('i.txt','w')
-file1.write('0')
+with open('i.txt',"w", encoding='utf-8') as f:
+    f.write('0')
