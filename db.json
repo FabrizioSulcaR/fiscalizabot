@@ -478,5 +478,53 @@
         "Hora_ingreso": "15:27",
         "Hora_salida": "16:45",
         "Observacion": ""
+    },
+    {
+        "Fecha": "23/12/2021",
+        "Visitante": "PALACIOS CONVERCIO JOSE MANUEL",
+        "Documento": "DNI 07770450",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: EVALUACIÓN DE PRENDAS DE UNIFORMNES",
+        "Empleado_publico": "RAMOS CABALLERO CONNI ZOILA ESTHER",
+        "Oficina_cargo": "AREA DE BIENESTAR Y SERVICIOS MEDICOSTRABAJADOR (A) SOCIAL",
+        "Hora_ingreso": "14:02",
+        "Hora_salida": "17:09",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "23/12/2021",
+        "Visitante": "ALALUNA LAGOS ROBERTO EMILIANO",
+        "Documento": "DNI 09821078",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: EVALUACIÓN DE PRENDAS DE UNIFORMNES",
+        "Empleado_publico": "RAMOS CABALLERO CONNI ZOILA ESTHER",
+        "Oficina_cargo": "AREA DE BIENESTAR Y SERVICIOS MEDICOSTRABAJADOR (A) SOCIAL",
+        "Hora_ingreso": "14:03",
+        "Hora_salida": "17:10",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "23/12/2021",
+        "Visitante": "PASTOR LOMPARTE CARLOS ENRIQUE",
+        "Documento": "DNI 07752657",
+        "Entidad": "DINI",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "14:47",
+        "Hora_salida": "17:14",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "23/12/2021",
+        "Visitante": "RIVERA CACHO RAFAEL OSWALDO",
+        "Documento": "DNI 10136036",
+        "Entidad": "DINI",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "14:48",
+        "Hora_salida": "17:15",
+        "Observacion": ""
     }
 ]
