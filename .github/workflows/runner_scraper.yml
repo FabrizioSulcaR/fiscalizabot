@@ -2,6 +2,8 @@ name: Check if dataset changed
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '*/5 * * * *'
 
 jobs:
   extract:
