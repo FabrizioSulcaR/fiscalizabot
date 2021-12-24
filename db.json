@@ -682,5 +682,17 @@
         "Hora_ingreso": "08:33",
         "Hora_salida": "09:24",
         "Observacion": ""
+    },
+    {
+        "Fecha": "24/12/2021",
+        "Visitante": "GONZALES MONTES JUAN",
+        "Documento": "DNI 07488549",
+        "Entidad": "INVERSIONES JEANBE EIRL",
+        "Motivo": "OTROS: PROVEEDOR DE VIVERES EN GENERAL",
+        "Empleado_publico": "YANAPA ZENTENO MARCO ANTONIO",
+        "Oficina_cargo": "AREA DE ALIMENTACIóN",
+        "Hora_ingreso": "08:32",
+        "Hora_salida": "09:40",
+        "Observacion": ""
     }
 ]
