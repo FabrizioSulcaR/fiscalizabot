@@ -790,5 +790,29 @@
         "Hora_ingreso": "07:19",
         "Hora_salida": "13:45",
         "Observacion": ""
+    },
+    {
+        "Fecha": "24/12/2021",
+        "Visitante": "MIRANDA BELLEZA LUIS MIGUEL",
+        "Documento": "DNI 45824709",
+        "Entidad": "PARTICULAR",
+        "Motivo": "PROVISION DE SERVICIOS",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "11:54",
+        "Hora_salida": "14:20",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "24/12/2021",
+        "Visitante": "CASTRO VALENCIA HUGO HONORIO",
+        "Documento": "DNI 25747280",
+        "Entidad": "PARTICULAR",
+        "Motivo": "PROVISION DE SERVICIOS",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "11:55",
+        "Hora_salida": "14:20",
+        "Observacion": ""
     }
 ]
