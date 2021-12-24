@@ -598,5 +598,29 @@
         "Hora_ingreso": "20:02",
         "Hora_salida": "20:54",
         "Observacion": ""
+    },
+    {
+        "Fecha": "23/12/2021",
+        "Visitante": "COLALA VILLEGAS JESUS",
+        "Documento": "DNI 41444752",
+        "Entidad": "EBD",
+        "Motivo": "PROVISION DE SERVICIOS",
+        "Empleado_publico": "SALAZAR PAUCAR CARLOS ENRIQUE",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACIONESPECIALISTA EN REDES Y COMUNICACIONES",
+        "Hora_ingreso": "19:30",
+        "Hora_salida": "22:54",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "23/12/2021",
+        "Visitante": "HUACRE LIZARME RICHARD",
+        "Documento": "DNI 40819000",
+        "Entidad": "EBD",
+        "Motivo": "PROVISION DE SERVICIOS",
+        "Empleado_publico": "SALAZAR PAUCAR CARLOS ENRIQUE",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACIONESPECIALISTA EN REDES Y COMUNICACIONES",
+        "Hora_ingreso": "19:45",
+        "Hora_salida": "22:54",
+        "Observacion": ""
     }
 ]
