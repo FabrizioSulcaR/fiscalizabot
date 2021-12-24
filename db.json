@@ -586,5 +586,17 @@
         "Hora_ingreso": "15:48",
         "Hora_salida": "18:34",
         "Observacion": ""
+    },
+    {
+        "Fecha": "23/12/2021",
+        "Visitante": "JIMENEZ OLIVARES FREDY OMAR",
+        "Documento": "DNI 06992534",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "YANAPA ZENTENO MARCO ANTONIO",
+        "Oficina_cargo": "AREA DE ALIMENTACIóN",
+        "Hora_ingreso": "20:02",
+        "Hora_salida": "20:54",
+        "Observacion": ""
     }
 ]
