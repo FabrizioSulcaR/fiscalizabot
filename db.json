@@ -658,5 +658,29 @@
         "Hora_ingreso": "06:40",
         "Hora_salida": "06:43",
         "Observacion": ""
+    },
+    {
+        "Fecha": "24/12/2021",
+        "Visitante": "QUISPE GARAMENDI JUAN ALBERTO",
+        "Documento": "DNI 80114379",
+        "Entidad": "INVERSIONES JEANBE EIRL",
+        "Motivo": "OTROS: PROVEEDOR DE VIVERES EN GENERAL",
+        "Empleado_publico": "YANAPA ZENTENO MARCO ANTONIO",
+        "Oficina_cargo": "AREA DE ALIMENTACIóN",
+        "Hora_ingreso": "08:31",
+        "Hora_salida": "09:30",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "24/12/2021",
+        "Visitante": "AVILA SOTO JOEL ALFREDO",
+        "Documento": "DNI 08174717",
+        "Entidad": "INVERSIONES JEANBE EIRL",
+        "Motivo": "OTROS: PROVEEDOR DE VIVERES EN GENERAL",
+        "Empleado_publico": "YANAPA ZENTENO MARCO ANTONIO",
+        "Oficina_cargo": "AREA DE ALIMENTACIóN",
+        "Hora_ingreso": "08:33",
+        "Hora_salida": "09:24",
+        "Observacion": ""
     }
 ]
