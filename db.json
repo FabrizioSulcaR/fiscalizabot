@@ -646,5 +646,17 @@
         "Hora_ingreso": "05:58",
         "Hora_salida": "06:02",
         "Observacion": ""
+    },
+    {
+        "Fecha": "24/12/2021",
+        "Visitante": "VILLANUEVA REYES ANALI CINTHIA",
+        "Documento": "DNI 46224725",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "06:40",
+        "Hora_salida": "06:43",
+        "Observacion": ""
     }
 ]
