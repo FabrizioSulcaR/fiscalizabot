@@ -634,5 +634,17 @@
         "Hora_ingreso": "09:08",
         "Hora_salida": "17:59",
         "Observacion": ""
+    },
+    {
+        "Fecha": "24/12/2021",
+        "Visitante": "LUNA ALARCON WILLIANS",
+        "Documento": "DNI 10200758",
+        "Entidad": "JUAN CARLOS COJAL TRINIDAD",
+        "Motivo": "OTROS: PROVEEDOR DE PAN",
+        "Empleado_publico": "YANAPA ZENTENO MARCO ANTONIO",
+        "Oficina_cargo": "AREA DE ALIMENTACIóN",
+        "Hora_ingreso": "05:58",
+        "Hora_salida": "06:02",
+        "Observacion": ""
     }
 ]
