@@ -730,5 +730,29 @@
         "Hora_ingreso": "10:40",
         "Hora_salida": "12:09",
         "Observacion": ""
+    },
+    {
+        "Fecha": "24/12/2021",
+        "Visitante": "CHUMPITAZ RAMON VERONICA YANET",
+        "Documento": "DNI 40038089",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "06:03",
+        "Hora_salida": "13:16",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "24/12/2021",
+        "Visitante": "ALVAREZ REYES RODOLFO RUBEN",
+        "Documento": "DNI 44961895",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "06:33",
+        "Hora_salida": "13:17",
+        "Observacion": ""
     }
 ]
