@@ -718,5 +718,17 @@
         "Hora_ingreso": "09:38",
         "Hora_salida": "11:13",
         "Observacion": ""
+    },
+    {
+        "Fecha": "24/12/2021",
+        "Visitante": "FERNANDEZ LATORRE JOSE LUIS",
+        "Documento": "DNI 16718880",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: visita",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SUBSECRETARIA GENERAL",
+        "Hora_ingreso": "10:40",
+        "Hora_salida": "12:09",
+        "Observacion": ""
     }
 ]
