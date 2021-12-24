@@ -754,5 +754,41 @@
         "Hora_ingreso": "06:33",
         "Hora_salida": "13:17",
         "Observacion": ""
+    },
+    {
+        "Fecha": "24/12/2021",
+        "Visitante": "ZEVALLOS CUCHO ADA MARLENY",
+        "Documento": "DNI 10749229",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "06:23",
+        "Hora_salida": "13:31",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "24/12/2021",
+        "Visitante": "DIAZ HUANSI CARLA PATRICIA",
+        "Documento": "DNI 40504625",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "06:47",
+        "Hora_salida": "13:33",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "24/12/2021",
+        "Visitante": "ESCOBAR AURIS JORGE ENRIQUE",
+        "Documento": "DNI 41767621",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "07:19",
+        "Hora_salida": "13:45",
+        "Observacion": ""
     }
 ]
