@@ -111334,5 +111334,17 @@
         "Hora_ingreso": "12:03",
         "Hora_salida": "13:43",
         "Observacion": ""
+    },
+    {
+        "Fecha": "25/12/2021",
+        "Visitante": "MATKOVICH LAZARTE LUIS ESTIPO",
+        "Documento": "DNI 43309695",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "LEON TORRES ORIZON OMAR",
+        "Oficina_cargo": "CASA MILITAR",
+        "Hora_ingreso": "07:21",
+        "Hora_salida": "15:01",
+        "Observacion": ""
     }
 ]
