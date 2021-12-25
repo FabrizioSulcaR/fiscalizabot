@@ -111310,5 +111310,29 @@
         "Hora_ingreso": "07:43",
         "Hora_salida": "11:57",
         "Observacion": ""
+    },
+    {
+        "Fecha": "25/12/2021",
+        "Visitante": "ESCOBAR AURIS JORGE ENRIQUE",
+        "Documento": "DNI 41767621",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "07:28",
+        "Hora_salida": "13:36",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "25/12/2021",
+        "Visitante": "MALLQUI ANDAHUA VERONICA ANDREA",
+        "Documento": "DNI 44846675",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "12:03",
+        "Hora_salida": "13:43",
+        "Observacion": ""
     }
 ]
