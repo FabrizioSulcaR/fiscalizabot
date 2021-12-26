@@ -111514,5 +111514,17 @@
         "Hora_ingreso": "13:12",
         "Hora_salida": "13:26",
         "Observacion": ""
+    },
+    {
+        "Fecha": "26/12/2021",
+        "Visitante": "LUYO SOLIS CRISTOFER FRANCO",
+        "Documento": "DNI 70711905",
+        "Entidad": "DINI",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "10:05",
+        "Hora_salida": "17:08",
+        "Observacion": ""
     }
 ]
