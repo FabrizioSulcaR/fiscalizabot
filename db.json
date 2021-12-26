@@ -111526,5 +111526,53 @@
         "Hora_ingreso": "10:05",
         "Hora_salida": "17:08",
         "Observacion": ""
+    },
+    {
+        "Fecha": "26/12/2021",
+        "Visitante": "ROBLES RIVERA LUIS SANTIAGO",
+        "Documento": "DNI 42957736",
+        "Entidad": "DINI",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "10:04",
+        "Hora_salida": "17:42",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "26/12/2021",
+        "Visitante": "CASTRO POSADAS PAUL",
+        "Documento": "DNI 44880882",
+        "Entidad": "DINI",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "10:04",
+        "Hora_salida": "17:41",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "26/12/2021",
+        "Visitante": "YOCTUN CABRERA LENIN",
+        "Documento": "DNI 40901965",
+        "Entidad": "DINI",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "13:38",
+        "Hora_salida": "17:42",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "26/12/2021",
+        "Visitante": "SALAS GARCIA ORLANDO GERARDO",
+        "Documento": "DNI 08684269",
+        "Entidad": "DINI",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "13:38",
+        "Hora_salida": "17:43",
+        "Observacion": ""
     }
 ]
