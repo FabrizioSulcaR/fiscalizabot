@@ -3,14 +3,16 @@ import json
 import requests
 import pandas as pd
 from datetime import date
+from fake_headers import Headers
 
 class Scraper:
     def __init__(self):
         pass
     
     def scraping(self):
+        headers = Headers(headers=True).generate()
         link = 'https://appw.presidencia.gob.pe/visitas/transparencia/'
-        HTML = BeautifulSoup((requests.get(link).content), 'html.parser')
+        HTML = BeautifulSoup((requests.get(link, headers=headers).content), 'html.parser')
         HTML = HTML.select('tr')[6]
         HTML = HTML.find_all_next('tr')
         fecha = [x.get_text() for x in sum([HTML[len(HTML)-i-1].find_all('td')[1::11] for i in range(len(HTML))],[])]
