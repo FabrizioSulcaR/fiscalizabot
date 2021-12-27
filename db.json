@@ -111682,5 +111682,17 @@
         "Hora_ingreso": "10:14",
         "Hora_salida": "10:44",
         "Observacion": ""
+    },
+    {
+        "Fecha": "27/12/2021",
+        "Visitante": "PANCCA AYALA JUDITH ARACELLY",
+        "Documento": "DNI 80652948",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: Proveedora de uniformes",
+        "Empleado_publico": "YANAPA ZENTENO MARCO ANTONIO",
+        "Oficina_cargo": "AREA DE ALIMENTACIóN",
+        "Hora_ingreso": "11:26",
+        "Hora_salida": "11:43",
+        "Observacion": ""
     }
 ]
