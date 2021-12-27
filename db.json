@@ -111742,5 +111742,29 @@
         "Hora_ingreso": "12:50",
         "Hora_salida": "13:24",
         "Observacion": ""
+    },
+    {
+        "Fecha": "27/12/2021",
+        "Visitante": "Villarroel Escalona Keduyn Jose",
+        "Documento": "Carnet de Extranjeria 003073577",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: ENTREGA DE BIDONES DE AGUA",
+        "Empleado_publico": "HUAYLLASCO FIGUEROA ENRIQUE ",
+        "Oficina_cargo": "AREA DE ALMACEN",
+        "Hora_ingreso": "13:15",
+        "Hora_salida": "13:36",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "27/12/2021",
+        "Visitante": "ROJAS SUAREZ CESAR JAVIER",
+        "Documento": "Carnet de Extranjeria 003417004",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: ENTREGA DE BIDONES DE AGUA",
+        "Empleado_publico": "HUAYLLASCO FIGUEROA ENRIQUE ",
+        "Oficina_cargo": "AREA DE ALMACEN",
+        "Hora_ingreso": "13:16",
+        "Hora_salida": "13:37",
+        "Observacion": ""
     }
 ]
