@@ -111814,5 +111814,29 @@
         "Hora_ingreso": "14:10",
         "Hora_salida": "15:05",
         "Observacion": ""
+    },
+    {
+        "Fecha": "27/12/2021",
+        "Visitante": "ALVAREZ REYES RODOLFO RUBEN",
+        "Documento": "DNI 44961895",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "06:23",
+        "Hora_salida": "15:21",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "27/12/2021",
+        "Visitante": "DIAZ HUANSI CARLA PATRICIA",
+        "Documento": "DNI 40504625",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "06:45",
+        "Hora_salida": "15:20",
+        "Observacion": ""
     }
 ]
