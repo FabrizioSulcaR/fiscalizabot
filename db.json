@@ -111670,5 +111670,17 @@
         "Hora_ingreso": "08:45",
         "Hora_salida": "09:12",
         "Observacion": ""
+    },
+    {
+        "Fecha": "27/12/2021",
+        "Visitante": "AVILA SOTO JOEL ALFREDO",
+        "Documento": "DNI 08174717",
+        "Entidad": "INVERSIONES JEANBE EIRL",
+        "Motivo": "OTROS: PROVEEDOR DE VIVERES EN GENERAL",
+        "Empleado_publico": "YANAPA ZENTENO MARCO ANTONIO",
+        "Oficina_cargo": "AREA DE ALIMENTACIóN",
+        "Hora_ingreso": "10:14",
+        "Hora_salida": "10:44",
+        "Observacion": ""
     }
 ]
