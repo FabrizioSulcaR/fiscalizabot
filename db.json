@@ -111646,5 +111646,29 @@
         "Hora_ingreso": "06:41",
         "Hora_salida": "06:45",
         "Observacion": ""
+    },
+    {
+        "Fecha": "27/12/2021",
+        "Visitante": "PARIONA TOLEDO JHON FUISHER",
+        "Documento": "DNI 75533869",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: PROVEEDOR DE CARNE DE AVES",
+        "Empleado_publico": "YANAPA ZENTENO MARCO ANTONIO",
+        "Oficina_cargo": "AREA DE ALIMENTACIóN",
+        "Hora_ingreso": "08:35",
+        "Hora_salida": "09:17",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "27/12/2021",
+        "Visitante": "GÓMEZ COSIO LUÍS ANGEL",
+        "Documento": "DNI 46141332",
+        "Entidad": "COMERCIAL GOMEZ Y COSIO SAC",
+        "Motivo": "OTROS: PROVEEDOR DE PESCADOS CON FICHA TECNICA",
+        "Empleado_publico": "YANAPA ZENTENO MARCO ANTONIO",
+        "Oficina_cargo": "AREA DE ALIMENTACIóN",
+        "Hora_ingreso": "08:45",
+        "Hora_salida": "09:12",
+        "Observacion": ""
     }
 ]
