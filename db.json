@@ -111850,5 +111850,17 @@
         "Hora_ingreso": "07:07",
         "Hora_salida": "15:48",
         "Observacion": ""
+    },
+    {
+        "Fecha": "27/12/2021",
+        "Visitante": "SANCHEZ TORRES PIERO LESTER",
+        "Documento": "DNI 43049908",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "FALCONI VALLEJOS GREGORIO MARTIN",
+        "Oficina_cargo": "DIRECCION DE PRENSA",
+        "Hora_ingreso": "17:07",
+        "Hora_salida": "17:26",
+        "Observacion": ""
     }
 ]
