@@ -112042,5 +112042,17 @@
         "Hora_ingreso": "08:35",
         "Hora_salida": "09:22",
         "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "MENDOZA RUEDA LUIS ANTHONY",
+        "Documento": "DNI 44544072",
+        "Entidad": "SERVICENTRO SRL",
+        "Motivo": "PROVISION DE SERVICIOS",
+        "Empleado_publico": "SANCHEZ SANCHEZ CHRISTIAN MANUEL",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACIONASISTENTE DE SOPORTE Y MANTENIMIENTO",
+        "Hora_ingreso": "09:38",
+        "Hora_salida": "09:54",
+        "Observacion": ""
     }
 ]
