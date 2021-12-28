@@ -112762,5 +112762,29 @@
         "Hora_ingreso": "06:30",
         "Hora_salida": "16:24",
         "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "VILLACORTA AYLLON AUGUSTO",
+        "Documento": "DNI 09302428",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "15:12",
+        "Hora_salida": "17:25",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "FRANCKE BALLVE PEDRO ANDRES TORIBIO TOPILTZIN",
+        "Documento": "DNI 10146581",
+        "Entidad": "MEF",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:06",
+        "Hora_salida": "17:26",
+        "Observacion": ""
     }
 ]
