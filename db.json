@@ -111970,5 +111970,17 @@
         "Hora_ingreso": "20:10",
         "Hora_salida": "20:48",
         "Observacion": ""
+    },
+    {
+        "Fecha": "27/12/2021",
+        "Visitante": "SANCHEZ PALOMINO ROBERTO HELBERT",
+        "Documento": "DNI 16002918",
+        "Entidad": "MINCETUR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "20:33",
+        "Hora_salida": "23:46",
+        "Observacion": ""
     }
 ]
