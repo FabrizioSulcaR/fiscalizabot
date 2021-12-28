@@ -112294,5 +112294,29 @@
         "Hora_ingreso": "10:55",
         "Hora_salida": "11:19",
         "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "REYNA MORAN FIORELLA ESTEFANIA",
+        "Documento": "DNI 74066628",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS:  CEREMONIA DE PASE AL RETEIRO",
+        "Empleado_publico": "GONZALES PEZO JORGE LUIS",
+        "Oficina_cargo": "CASA MILITAR",
+        "Hora_ingreso": "09:35",
+        "Hora_salida": "12:57",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "CASTAÑEDA VARGAS GLADYS",
+        "Documento": "DNI 09474599",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS:  CEREMONIA DE PASE AL RETEIRO",
+        "Empleado_publico": "GONZALES PEZO JORGE LUIS",
+        "Oficina_cargo": "CASA MILITAR",
+        "Hora_ingreso": "09:35",
+        "Hora_salida": "12:57",
+        "Observacion": ""
     }
 ]
