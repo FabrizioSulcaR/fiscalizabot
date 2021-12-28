@@ -112678,5 +112678,53 @@
         "Hora_ingreso": "06:45",
         "Hora_salida": "15:21",
         "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "PACHAS PALACIOS EDUARDO REMI",
+        "Documento": "DNI 09454319",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "09:00",
+        "Hora_salida": "15:42",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "CORTEZ SOLORZANO JEFFERSON MARTIN",
+        "Documento": "DNI 40878893",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SUBSECRETARIA GENERAL",
+        "Hora_ingreso": "09:03",
+        "Hora_salida": "15:45",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "TRUJILLO MINAYA MARIELA ESMERALDA",
+        "Documento": "DNI 77335920",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SUBSECRETARIA GENERAL",
+        "Hora_ingreso": "09:48",
+        "Hora_salida": "15:42",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "CUADROS VILLAVICENCIO ELVIS BRAYAN",
+        "Documento": "DNI 78108359",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SUBSECRETARIA GENERAL",
+        "Hora_ingreso": "09:49",
+        "Hora_salida": "15:43",
+        "Observacion": ""
     }
 ]
