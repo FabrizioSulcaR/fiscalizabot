@@ -112846,5 +112846,53 @@
         "Hora_ingreso": "14:37",
         "Hora_salida": "18:02",
         "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "HUACCHILLO NUÑEZ YENNY",
+        "Documento": "DNI 42858932",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: CARPETA FISCAL 434",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "09:50",
+        "Hora_salida": "18:44",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "GONZALES MEGO TANIA DEICY",
+        "Documento": "DNI 09991713",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: CARPETA FISCAL 434",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "10:16",
+        "Hora_salida": "18:42",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "CHACON BONIFACIO JOHAN PATRICK",
+        "Documento": "DNI 71824812",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: CARPETA FISCAL 434",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "10:16",
+        "Hora_salida": "18:43",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "CACERES MEDINA SHAROM CRISTINE",
+        "Documento": "DNI 73114631",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: CARPETA FISCAL 434",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "16:40",
+        "Hora_salida": "18:42",
+        "Observacion": ""
     }
 ]
