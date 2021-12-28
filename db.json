@@ -112054,5 +112054,65 @@
         "Hora_ingreso": "09:38",
         "Hora_salida": "09:54",
         "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "CASTRO GOMEZ JULIO SERGIO",
+        "Documento": "DNI 23846108",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "PRETEL MOSTACERO WILSON GARI",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "08:58",
+        "Hora_salida": "10:24",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "ROMERO QUISPE JACOBO",
+        "Documento": "DNI 06564542",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "PRETEL MOSTACERO WILSON GARI",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "08:59",
+        "Hora_salida": "10:25",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "CRUZADO SILVERII EDGARDO MARCELO",
+        "Documento": "DNI 03496000",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "PRETEL MOSTACERO WILSON GARI",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "09:08",
+        "Hora_salida": "10:23",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "RODRIGUEZ RABANAL VICTOR ROBERTO",
+        "Documento": "DNI 07246692",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "PRETEL MOSTACERO WILSON GARI",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "09:13",
+        "Hora_salida": "10:25",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "MALPARTIDA OSTOS ROSSMARY",
+        "Documento": "DNI 44129774",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "PRETEL MOSTACERO WILSON GARI",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "09:20",
+        "Hora_salida": "10:24",
+        "Observacion": ""
     }
 ]
