@@ -112582,5 +112582,89 @@
         "Hora_ingreso": "12:41",
         "Hora_salida": "14:53",
         "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "CARRASCO ALVAREZ ALEXANDRA XIMENA",
+        "Documento": "DNI 73424387",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: cobertura",
+        "Empleado_publico": "CARRILLO VALENCIA GABRIELA AURORA",
+        "Oficina_cargo": "DIRECCION DE PRENSAPROFESIONAL EN MEDIOS DE COMUNICACIÓN Y REDACCIÓN",
+        "Hora_ingreso": "12:40",
+        "Hora_salida": "14:56",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "PADILLA DE LA CRUZ JOSE LUIS",
+        "Documento": "DNI 09552966",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: cobertura",
+        "Empleado_publico": "CARRILLO VALENCIA GABRIELA AURORA",
+        "Oficina_cargo": "DIRECCION DE PRENSAPROFESIONAL EN MEDIOS DE COMUNICACIÓN Y REDACCIÓN",
+        "Hora_ingreso": "12:41",
+        "Hora_salida": "14:55",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "RODRIGUEZ ZARATE MARCO",
+        "Documento": "DNI 45463070",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: cobertura",
+        "Empleado_publico": "CARRILLO VALENCIA GABRIELA AURORA",
+        "Oficina_cargo": "DIRECCION DE PRENSAPROFESIONAL EN MEDIOS DE COMUNICACIÓN Y REDACCIÓN",
+        "Hora_ingreso": "12:42",
+        "Hora_salida": "14:56",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "QUIROZ MORI ANTONY VICTOR",
+        "Documento": "DNI 48410863",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: cobertura",
+        "Empleado_publico": "CARRILLO VALENCIA GABRIELA AURORA",
+        "Oficina_cargo": "DIRECCION DE PRENSAPROFESIONAL EN MEDIOS DE COMUNICACIÓN Y REDACCIÓN",
+        "Hora_ingreso": "12:42",
+        "Hora_salida": "15:14",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "JERONIMO GOMEZ LUIS VIDAL",
+        "Documento": "DNI 10786499",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: cobertura",
+        "Empleado_publico": "CARRILLO VALENCIA GABRIELA AURORA",
+        "Oficina_cargo": "DIRECCION DE PRENSAPROFESIONAL EN MEDIOS DE COMUNICACIÓN Y REDACCIÓN",
+        "Hora_ingreso": "12:42",
+        "Hora_salida": "15:14",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "CASTRO ROJAS GUSTAVO GILMER",
+        "Documento": "DNI 47521394",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: cobertura",
+        "Empleado_publico": "CARRILLO VALENCIA GABRIELA AURORA",
+        "Oficina_cargo": "DIRECCION DE PRENSAPROFESIONAL EN MEDIOS DE COMUNICACIÓN Y REDACCIÓN",
+        "Hora_ingreso": "13:00",
+        "Hora_salida": "14:59",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "BAYONA OLIVERA KARERINA",
+        "Documento": "DNI 40031062",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: cobertura",
+        "Empleado_publico": "CARRILLO VALENCIA GABRIELA AURORA",
+        "Oficina_cargo": "DIRECCION DE PRENSAPROFESIONAL EN MEDIOS DE COMUNICACIÓN Y REDACCIÓN",
+        "Hora_ingreso": "13:00",
+        "Hora_salida": "14:55",
+        "Observacion": ""
     }
 ]
