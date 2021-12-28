@@ -112318,5 +112318,89 @@
         "Hora_ingreso": "09:35",
         "Hora_salida": "12:57",
         "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "RIVERA POMASONCCO ALEJANDRO",
+        "Documento": "DNI 23720189",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: VISITA GUIADA A PALACIO Y OTROS",
+        "Empleado_publico": "RAMOS CABALLERO CONNI ZOILA ESTHER",
+        "Oficina_cargo": "AREA DE BIENESTAR Y SERVICIOS MEDICOSTRABAJADOR (A) SOCIAL",
+        "Hora_ingreso": "11:10",
+        "Hora_salida": "13:05",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "RIVERA CORDOVA ROSA MARIA",
+        "Documento": "DNI 09696787",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: VISITA GUIADA A PALACIO Y OTROS",
+        "Empleado_publico": "RAMOS CABALLERO CONNI ZOILA ESTHER",
+        "Oficina_cargo": "AREA DE BIENESTAR Y SERVICIOS MEDICOSTRABAJADOR (A) SOCIAL",
+        "Hora_ingreso": "11:12",
+        "Hora_salida": "13:07",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "FLORES RIVERA ELENA ISABEL",
+        "Documento": "DNI 73890989",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: VISITA GUIADA A PALACIO Y OTROS",
+        "Empleado_publico": "RAMOS CABALLERO CONNI ZOILA ESTHER",
+        "Oficina_cargo": "AREA DE BIENESTAR Y SERVICIOS MEDICOSTRABAJADOR (A) SOCIAL",
+        "Hora_ingreso": "11:12",
+        "Hora_salida": "13:06",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "CORDOVA HUAMANI HONORATA GERVACIA",
+        "Documento": "DNI 08926215",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: VISITA GUIADA A PALACIO Y OTROS",
+        "Empleado_publico": "RAMOS CABALLERO CONNI ZOILA ESTHER",
+        "Oficina_cargo": "AREA DE BIENESTAR Y SERVICIOS MEDICOSTRABAJADOR (A) SOCIAL",
+        "Hora_ingreso": "11:12",
+        "Hora_salida": "13:06",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "RIVERA CORDOVA SUSANA",
+        "Documento": "DNI 44316688",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: VISITA GUIADA A PALACIO Y OTROS",
+        "Empleado_publico": "RAMOS CABALLERO CONNI ZOILA ESTHER",
+        "Oficina_cargo": "AREA DE BIENESTAR Y SERVICIOS MEDICOSTRABAJADOR (A) SOCIAL",
+        "Hora_ingreso": "11:13",
+        "Hora_salida": "13:08",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "RIVERA CORDOVA DELFINA",
+        "Documento": "DNI 09687860",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: VISITA GUIADA A PALACIO Y OTROS",
+        "Empleado_publico": "RAMOS CABALLERO CONNI ZOILA ESTHER",
+        "Oficina_cargo": "AREA DE BIENESTAR Y SERVICIOS MEDICOSTRABAJADOR (A) SOCIAL",
+        "Hora_ingreso": "11:13",
+        "Hora_salida": "13:06",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "RIVERA CORDOVA ISABEL",
+        "Documento": "DNI 10242360",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: VISITA GUIADA A PALACIO Y OTROS",
+        "Empleado_publico": "RAMOS CABALLERO CONNI ZOILA ESTHER",
+        "Oficina_cargo": "AREA DE BIENESTAR Y SERVICIOS MEDICOSTRABAJADOR (A) SOCIAL",
+        "Hora_ingreso": "11:14",
+        "Hora_salida": "13:07",
+        "Observacion": ""
     }
 ]
