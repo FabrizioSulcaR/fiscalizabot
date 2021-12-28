@@ -112114,5 +112114,41 @@
         "Hora_ingreso": "09:20",
         "Hora_salida": "10:24",
         "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "MARCOS FERNANDEZ EUSEBIO",
+        "Documento": "DNI 10326677",
+        "Entidad": "PARTICULAR",
+        "Motivo": "PROVISION DE SERVICIOS",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "09:40",
+        "Hora_salida": "11:04",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "TELLO PAREDES CESAR",
+        "Documento": "DNI 09752323",
+        "Entidad": "PARTICULAR",
+        "Motivo": "PROVISION DE SERVICIOS",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "09:41",
+        "Hora_salida": "11:03",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "CARDENAS ZARATE SHIRLEY ANTUANE",
+        "Documento": "DNI 40328720",
+        "Entidad": "PARTICULAR",
+        "Motivo": "PROVISION DE SERVICIOS",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "09:41",
+        "Hora_salida": "11:04",
+        "Observacion": ""
     }
 ]
