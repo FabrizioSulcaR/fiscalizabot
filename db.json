@@ -111898,5 +111898,77 @@
         "Hora_ingreso": "14:20",
         "Hora_salida": "17:48",
         "Observacion": ""
+    },
+    {
+        "Fecha": "27/12/2021",
+        "Visitante": "CARRASCO MILLONES JUAN MANUEL",
+        "Documento": "DNI 16782655",
+        "Entidad": "MINDEF",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:00",
+        "Hora_salida": "21:05",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "27/12/2021",
+        "Visitante": "TORRES VASQUEZ ANIBAL",
+        "Documento": "DNI 06105850",
+        "Entidad": "MINJUS",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:08",
+        "Hora_salida": "21:03",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "27/12/2021",
+        "Visitante": "YLDEFONSO NARRO ANGEL FERNANDO",
+        "Documento": "DNI 32905782",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "17:18",
+        "Hora_salida": "21:13",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "27/12/2021",
+        "Visitante": "PACHAS PALACIOS EDUARDO REMI",
+        "Documento": "DNI 09454319",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "17:46",
+        "Hora_salida": "21:14",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "27/12/2021",
+        "Visitante": "CHERO MEDINA FELIX INOCENTE",
+        "Documento": "DNI 16749268",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "18:11",
+        "Hora_salida": "21:04",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "27/12/2021",
+        "Visitante": "FERNANDEZ LATORRE JOSE LUIS",
+        "Documento": "DNI 16718880",
+        "Entidad": "DINI",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "20:10",
+        "Hora_salida": "20:48",
+        "Observacion": ""
     }
 ]
