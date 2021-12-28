@@ -112438,5 +112438,29 @@
         "Hora_ingreso": "12:30",
         "Hora_salida": "13:34",
         "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "SANCHEZ TORRES PIERO LESTER",
+        "Documento": "DNI 43049908",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "FALCONI VALLEJOS GREGORIO MARTIN",
+        "Oficina_cargo": "DIRECCION DE PRENSA",
+        "Hora_ingreso": "07:01",
+        "Hora_salida": "13:59",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "GARAY VELA FRANK YORK",
+        "Documento": "DNI 76446371",
+        "Entidad": "PARTICULAR",
+        "Motivo": "PROVISION DE SERVICIOS",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "13:09",
+        "Hora_salida": "13:51",
+        "Observacion": ""
     }
 ]
