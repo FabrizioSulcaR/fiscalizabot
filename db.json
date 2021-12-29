@@ -113026,5 +113026,41 @@
         "Hora_ingreso": "19:22",
         "Hora_salida": "20:10",
         "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "COILA RAMIREZ MERY INES",
+        "Documento": "DNI 00443113",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:25",
+        "Hora_salida": "19:27",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "ALVARADO LOPEZ GEINER",
+        "Documento": "DNI 41725953",
+        "Entidad": "VIVIENDA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "19:40",
+        "Hora_salida": "21:00",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "SERNA ROMAN ROSENDO LEONCIO",
+        "Documento": "DNI 22491596",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "19:48",
+        "Hora_salida": "20:49",
+        "Observacion": ""
     }
 ]
