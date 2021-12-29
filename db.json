@@ -113314,5 +113314,29 @@
         "Hora_ingreso": "14:30",
         "Hora_salida": "14:57",
         "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "CHUMPITAZ RAMON VERONICA YANET",
+        "Documento": "DNI 40038089",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "05:55",
+        "Hora_salida": "15:12",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "ESCOBAR AURIS JORGE ENRIQUE",
+        "Documento": "DNI 41767621",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "07:23",
+        "Hora_salida": "15:04",
+        "Observacion": ""
     }
 ]
