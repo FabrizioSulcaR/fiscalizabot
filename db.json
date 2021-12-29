@@ -113146,5 +113146,17 @@
         "Hora_ingreso": "09:44",
         "Hora_salida": "10:57",
         "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "YOCTUN CABRERA LENIN",
+        "Documento": "DNI 40901965",
+        "Entidad": "DINI",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "09:43",
+        "Hora_salida": "11:45",
+        "Observacion": ""
     }
 ]
