@@ -113158,5 +113158,77 @@
         "Hora_ingreso": "09:43",
         "Hora_salida": "11:45",
         "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "LEAL PECANHA LETICIA DUTRA",
+        "Documento": "Carnet de Extranjeria 20200261",
+        "Entidad": "EMBAJADA DE BRASIL",
+        "Motivo": "OTROS: VISITA TURISTICA",
+        "Empleado_publico": "CUADROS ROJAS SHEYLA ZULLY EYENITH",
+        "Oficina_cargo": "SECRETARIA DE ACTIVIDADES",
+        "Hora_ingreso": "11:14",
+        "Hora_salida": "12:26",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "FERNANDES PECANHA ANDRE GUSTAVO",
+        "Documento": "Carnet de Extranjeria 20191168",
+        "Entidad": "EMBAJADA DE BRASIL",
+        "Motivo": "OTROS: VISITA TURISTICA",
+        "Empleado_publico": "CUADROS ROJAS SHEYLA ZULLY EYENITH",
+        "Oficina_cargo": "SECRETARIA DE ACTIVIDADES",
+        "Hora_ingreso": "11:15",
+        "Hora_salida": "12:25",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "STEIMBACK BARBOSA MARIA ISABEL",
+        "Documento": "Pasaporte GD109924",
+        "Entidad": "EMBAJADA DE BRASIL",
+        "Motivo": "OTROS: VISITA TURISTICA",
+        "Empleado_publico": "CUADROS ROJAS SHEYLA ZULLY EYENITH",
+        "Oficina_cargo": "SECRETARIA DE ACTIVIDADES",
+        "Hora_ingreso": "11:17",
+        "Hora_salida": "12:27",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "LEAL PECANHA LUCAS DUTRA",
+        "Documento": "Pasaporte GD442328",
+        "Entidad": "EMBAJADA DE BRASIL",
+        "Motivo": "OTROS: VISITA TURISTICA",
+        "Empleado_publico": "CUADROS ROJAS SHEYLA ZULLY EYENITH",
+        "Oficina_cargo": "SECRETARIA DE ACTIVIDADES",
+        "Hora_ingreso": "11:18",
+        "Hora_salida": "12:27",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "LEAL PECANHA CLAUDETE DUTRA",
+        "Documento": "Carnet de Extranjeria 20200262",
+        "Entidad": "EMBAJADA DE BRASIL",
+        "Motivo": "OTROS: VISITA TURISTICA",
+        "Empleado_publico": "CUADROS ROJAS SHEYLA ZULLY EYENITH",
+        "Oficina_cargo": "SECRETARIA DE ACTIVIDADES",
+        "Hora_ingreso": "11:18",
+        "Hora_salida": "12:26",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "FERNANDEZ LATORRE JOSE LUIS",
+        "Documento": "DNI 16718880",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SUBSECRETARIA GENERAL",
+        "Hora_ingreso": "11:42",
+        "Hora_salida": "12:32",
+        "Observacion": ""
     }
 ]
