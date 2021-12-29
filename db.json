@@ -113374,5 +113374,17 @@
         "Hora_ingreso": "14:33",
         "Hora_salida": "15:52",
         "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "GUILLEN JAUREGUI AVELINO TRIFON",
+        "Documento": "DNI 08860868",
+        "Entidad": "MININTER",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "15:58",
+        "Hora_salida": "17:36",
+        "Observacion": ""
     }
 ]
