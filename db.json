@@ -113242,5 +113242,29 @@
         "Hora_ingreso": "12:32",
         "Hora_salida": "13:07",
         "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "JARA ROJAS ANA LUISA",
+        "Documento": "DNI 70439570",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "10:02",
+        "Hora_salida": "13:18",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "MAVILA ARAGONEZ LUIS FELIPE",
+        "Documento": "DNI 09764057",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "RONCALLA MARIN GIULIANA ",
+        "Oficina_cargo": "CASA MILITAR",
+        "Hora_ingreso": "10:10",
+        "Hora_salida": "13:20",
+        "Observacion": ""
     }
 ]
