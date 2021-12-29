@@ -112894,5 +112894,29 @@
         "Hora_ingreso": "16:40",
         "Hora_salida": "18:42",
         "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "MENDOZA FRISCH VERONIKA FANNY",
+        "Documento": "DNI 40765768",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:10",
+        "Hora_salida": "19:18",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "FRANCKE BALLVE PEDRO ANDRES TORIBIO TOPILTZIN",
+        "Documento": "DNI 10146581",
+        "Entidad": "MEF",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:40",
+        "Hora_salida": "19:18",
+        "Observacion": ""
     }
 ]
