@@ -113134,5 +113134,17 @@
         "Hora_ingreso": "09:14",
         "Hora_salida": "09:36",
         "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "SALAS GARCIA ORLANDO GERARDO",
+        "Documento": "DNI 08684269",
+        "Entidad": "DINI",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "09:44",
+        "Hora_salida": "10:57",
+        "Observacion": ""
     }
 ]
