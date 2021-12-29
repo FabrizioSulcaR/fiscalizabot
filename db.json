@@ -113086,5 +113086,29 @@
         "Hora_ingreso": "21:21",
         "Hora_salida": "22:02",
         "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "FERNANDEZ LATORRE JOSE LUIS",
+        "Documento": "DNI 16718880",
+        "Entidad": "DINI",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "21:03",
+        "Hora_salida": "23:16",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "VASQUEZ VASQUEZ MANUEL JESUS",
+        "Documento": "DNI 09167477",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "22:06",
+        "Hora_salida": "23:16",
+        "Observacion": ""
     }
 ]
