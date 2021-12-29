@@ -112918,5 +112918,113 @@
         "Hora_ingreso": "17:40",
         "Hora_salida": "19:18",
         "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "RIOS SEGURA CARLOS ALBERTO",
+        "Documento": "DNI 10060047",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "LEON FLORES LUIS ALBERTO",
+        "Oficina_cargo": "SECRETARIA DE ACTIVIDADES",
+        "Hora_ingreso": "15:56",
+        "Hora_salida": "20:15",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "BELLIDO UGARTE GUIDO",
+        "Documento": "DNI 44649199",
+        "Entidad": "CONGRESO",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:25",
+        "Hora_salida": "19:23",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "BAYONA OLIVERA KARERINA",
+        "Documento": "DNI 40031062",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: cobertura",
+        "Empleado_publico": "CARRILLO VALENCIA GABRIELA AURORA",
+        "Oficina_cargo": "DIRECCION DE PRENSAPROFESIONAL EN MEDIOS DE COMUNICACIÓN Y REDACCIÓN",
+        "Hora_ingreso": "17:51",
+        "Hora_salida": "20:36",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "SANCHEZ PALOMINO ROBERTO HELBERT",
+        "Documento": "DNI 16002918",
+        "Entidad": "PARTIDO POLITICO JUNTOS POR EL PERÙ",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "18:40",
+        "Hora_salida": "20:29",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "LI SOTELO ROSA PATRICIA",
+        "Documento": "DNI 07235726",
+        "Entidad": "PARTIDO POLITICO SOMOS PERÙ",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "18:51",
+        "Hora_salida": "19:29",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "DEL CASTILLO ALATRISTA RAUL",
+        "Documento": "DNI 23800640",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "18:57",
+        "Hora_salida": "20:17",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "CERRON ROJAS WALDEMAR JOSE",
+        "Documento": "DNI 20036514",
+        "Entidad": "PARTIDO POLITICO PERÙ LIBRE",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "18:58",
+        "Hora_salida": "20:17",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "DE LA CRUZ PONCE EDWIN IVAÑEZ",
+        "Documento": "DNI 10770288",
+        "Entidad": "PARTIDO POLITICO AVANZA PAÌS",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "19:15",
+        "Hora_salida": "20:17",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/12/2021",
+        "Visitante": "VERGARA MENDOZA ELVIS HERNAN",
+        "Documento": "DNI 42843414",
+        "Entidad": "PARTIDO POLITICO ACCION POPULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "19:22",
+        "Hora_salida": "20:10",
+        "Observacion": ""
     }
 ]
