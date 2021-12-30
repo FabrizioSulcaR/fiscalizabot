@@ -113842,5 +113842,17 @@
         "Hora_ingreso": "11:05",
         "Hora_salida": "11:51",
         "Observacion": ""
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "VASQUEZ SMED LUIS MANUEL",
+        "Documento": "Pasaporte 89530515",
+        "Entidad": "VGOP",
+        "Motivo": "PROVISION DE SERVICIOS",
+        "Empleado_publico": "VASQUEZ GARCIA HECTOR ",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "10:39",
+        "Hora_salida": "12:30",
+        "Observacion": ""
     }
 ]
