@@ -25234,5 +25234,17 @@
         "Hora_ingreso": "13:50",
         "Hora_salida": "15:03",
         "Observacion": ""
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "AGUILAR OBLITAS JOSE LUIS",
+        "Documento": "DNI 43367674",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "14:24",
+        "Hora_salida": "15:20",
+        "Observacion": ""
     }
 ]

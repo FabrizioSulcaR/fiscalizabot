@@ -114046,5 +114046,41 @@
         "Hora_ingreso": "13:50",
         "Hora_salida": "15:03",
         "Observacion": ""
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "HUAMAN RIOS JEANNETTE",
+        "Documento": "DNI 43310392",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "LEON TORRES ORIZON OMAR",
+        "Oficina_cargo": "CASA MILITAR",
+        "Hora_ingreso": "07:12",
+        "Hora_salida": "15:32",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "AGUILAR OBLITAS JOSE LUIS",
+        "Documento": "DNI 43367674",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "14:24",
+        "Hora_salida": "15:20",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "PARIONA SINCHE ALFREDO",
+        "Documento": "DNI 20051359",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "PRETEL MOSTACERO WILSON GARI",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "14:36",
+        "Hora_salida": "15:27",
+        "Observacion": ""
     }
 ]
