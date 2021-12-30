@@ -25162,5 +25162,17 @@
         "Hora_ingreso": "15:58",
         "Hora_salida": "17:36",
         "Observacion": ""
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "BOLUARTE ZEGARRA DINA ERCILIA",
+        "Documento": "DNI 06256217",
+        "Entidad": "MIDIS",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "11:05",
+        "Hora_salida": "11:51",
+        "Observacion": ""
     }
 ]
