@@ -113638,5 +113638,17 @@
         "Hora_ingreso": "19:18",
         "Hora_salida": "21:37",
         "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "AGUIRRE ARROYO GIANELLA MANUELA",
+        "Documento": "DNI 71400948",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: COBERTURA PERIODÍSTICA",
+        "Empleado_publico": "FALCONI VALLEJOS GREGORIO MARTIN",
+        "Oficina_cargo": "DIRECCION DE PRENSA",
+        "Hora_ingreso": "19:09",
+        "Hora_salida": "21:50",
+        "Observacion": ""
     }
 ]
