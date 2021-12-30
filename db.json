@@ -113686,5 +113686,41 @@
         "Hora_ingreso": "21:02",
         "Hora_salida": "22:42",
         "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "PACHAS PALACIOS EDUARDO REMI",
+        "Documento": "DNI 09454319",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "20:03",
+        "Hora_salida": "23:12",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "RAMON RUFFNER JERI GLORIA",
+        "Documento": "DNI 06245729",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO LEON BIBERTO BENERANDO",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "20:06",
+        "Hora_salida": "23:02",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "YLDEFONSO NARRO ANGEL FERNANDO",
+        "Documento": "DNI 32905782",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "20:14",
+        "Hora_salida": "23:12",
+        "Observacion": ""
     }
 ]
