@@ -114154,5 +114154,17 @@
         "Hora_ingreso": "14:09",
         "Hora_salida": "17:51",
         "Observacion": ""
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "RIOS SEGURA CARLOS ALBERTO",
+        "Documento": "DNI 10060047",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "LEON FLORES LUIS ALBERTO",
+        "Oficina_cargo": "SECRETARIA DE ACTIVIDADES",
+        "Hora_ingreso": "15:41",
+        "Hora_salida": "18:20",
+        "Observacion": ""
     }
 ]
