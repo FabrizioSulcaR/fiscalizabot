@@ -113974,5 +113974,29 @@
         "Hora_ingreso": "10:38",
         "Hora_salida": "11:03",
         "Observacion": "Persona no fue atendida por el Señor Presidente de La Republica."
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "SANCHEZ TORRES PIERO LESTER",
+        "Documento": "DNI 43049908",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "FALCONI VALLEJOS GREGORIO MARTIN",
+        "Oficina_cargo": "DIRECCION DE PRENSA",
+        "Hora_ingreso": "07:12",
+        "Hora_salida": "14:05",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "RIOS SEGURA CARLOS ALBERTO",
+        "Documento": "DNI 10060047",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "LEON FLORES LUIS ALBERTO",
+        "Oficina_cargo": "SECRETARIA DE ACTIVIDADES",
+        "Hora_ingreso": "10:12",
+        "Hora_salida": "14:13",
+        "Observacion": ""
     }
 ]
