@@ -25210,5 +25210,29 @@
         "Hora_ingreso": "10:38",
         "Hora_salida": "11:03",
         "Observacion": "Persona no fue atendida por el Señor Presidente de La Republica."
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "QUISPE DE LOS SANTOS JIMMY MARCOS",
+        "Documento": "DNI 16743560",
+        "Entidad": "MINDEF",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "13:50",
+        "Hora_salida": "15:03",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "CARRASCO MILLONES JUAN MANUEL",
+        "Documento": "DNI 16782655",
+        "Entidad": "MINDEF",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "13:50",
+        "Hora_salida": "15:03",
+        "Observacion": ""
     }
 ]
