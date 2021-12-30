@@ -113662,5 +113662,29 @@
         "Hora_ingreso": "21:40",
         "Hora_salida": "22:41",
         "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "FERNANDEZ LATORRE JOSE LUIS",
+        "Documento": "DNI 16718880",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SUBSECRETARIA GENERAL",
+        "Hora_ingreso": "20:02",
+        "Hora_salida": "22:48",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "BUENO BALVIN WILLY DINGLER",
+        "Documento": "DNI 06766455",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "ALPACA CHACON LUIS ENRIQUE",
+        "Oficina_cargo": "AREA DE GESTIÓN DE RECURSOS",
+        "Hora_ingreso": "21:02",
+        "Hora_salida": "22:42",
+        "Observacion": ""
     }
 ]
