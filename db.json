@@ -113530,5 +113530,53 @@
         "Hora_ingreso": "17:39",
         "Hora_salida": "20:31",
         "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "TACURI VALDIVIA GERMAN ADOLFO",
+        "Documento": "DNI 31031443",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:13",
+        "Hora_salida": "21:32",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "GUTIERREZ TICONA PAUL SILVIO",
+        "Documento": "DNI 31027035",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:32",
+        "Hora_salida": "21:33",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "LUQUE IBARRA RUTH",
+        "Documento": "DNI 40204874",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "18:56",
+        "Hora_salida": "21:37",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "PAREDES GONZALES ALEX ANTONIO",
+        "Documento": "DNI 29299579",
+        "Entidad": "CONGRESO DE LA REPÚBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "19:37",
+        "Hora_salida": "21:33",
+        "Observacion": ""
     }
 ]
