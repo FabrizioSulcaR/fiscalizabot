@@ -113650,5 +113650,17 @@
         "Hora_ingreso": "19:09",
         "Hora_salida": "21:50",
         "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "FRANCKE BALLVE PEDRO ANDRES TORIBIO TOPILTZIN",
+        "Documento": "DNI 10146581",
+        "Entidad": "MEF",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "21:40",
+        "Hora_salida": "22:41",
+        "Observacion": ""
     }
 ]
