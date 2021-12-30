@@ -113938,5 +113938,41 @@
         "Hora_ingreso": "12:58",
         "Hora_salida": "13:45",
         "Observacion": ""
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "RODRIGUEZ AGUIRRE RONALD NAPOLEON",
+        "Documento": "DNI 18109532",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "10:37",
+        "Hora_salida": "11:03",
+        "Observacion": "Persona no fue atendida por el Señor Presidente de La Republica."
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "GAVIDIA ARRASCUE FRANCISCO MARTIN",
+        "Documento": "DNI 06591795",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "10:37",
+        "Hora_salida": "11:03",
+        "Observacion": "Persona no fue atendida por el Señor Presidente de La Republica."
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "GAVIDIA ARRASCUE JOSE LUIS",
+        "Documento": "DNI 43448254",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "10:38",
+        "Hora_salida": "11:03",
+        "Observacion": "Persona no fue atendida por el Señor Presidente de La Republica."
     }
 ]
