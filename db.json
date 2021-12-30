@@ -113722,5 +113722,17 @@
         "Hora_ingreso": "20:14",
         "Hora_salida": "23:12",
         "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "JARA ROJAS ANA LUISA",
+        "Documento": "DNI 70439570",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "15:23",
+        "Hora_salida": "23:25",
+        "Observacion": ""
     }
 ]
