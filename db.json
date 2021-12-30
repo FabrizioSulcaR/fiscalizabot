@@ -113518,5 +113518,17 @@
         "Hora_ingreso": "17:47",
         "Hora_salida": "20:02",
         "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "QUIROZ BARBOZA SEGUNDO TEODOMIRO",
+        "Documento": "DNI 27361499",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:39",
+        "Hora_salida": "20:31",
+        "Observacion": ""
     }
 ]
