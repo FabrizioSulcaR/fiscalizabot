@@ -114130,5 +114130,17 @@
         "Hora_ingreso": "13:52",
         "Hora_salida": "16:17",
         "Observacion": ""
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "CARRILLO DE LA CRUZ HUMBERTO",
+        "Documento": "DNI 43582009",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO LEON BIBERTO BENERANDO",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "16:09",
+        "Hora_salida": "16:48",
+        "Observacion": ""
     }
 ]
