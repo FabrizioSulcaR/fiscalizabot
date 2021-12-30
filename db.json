@@ -113794,5 +113794,29 @@
         "Hora_ingreso": "09:10",
         "Hora_salida": "09:13",
         "Observacion": ""
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "GARCIA GUEVARA YONDRY JOSUE",
+        "Documento": "Carnet de Extranjeria 18362147",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: Entrega de bienes",
+        "Empleado_publico": "HUAYLLASCO FIGUEROA ENRIQUE ",
+        "Oficina_cargo": "AREA DE ALMACEN",
+        "Hora_ingreso": "09:07",
+        "Hora_salida": "10:31",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "DELBOY ANGULO EVELYN JOHANNY",
+        "Documento": "DNI 71440143",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: Entrega de bienes",
+        "Empleado_publico": "HUAYLLASCO FIGUEROA ENRIQUE ",
+        "Oficina_cargo": "AREA DE ALMACEN",
+        "Hora_ingreso": "09:07",
+        "Hora_salida": "10:27",
+        "Observacion": ""
     }
 ]
