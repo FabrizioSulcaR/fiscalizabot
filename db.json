@@ -113446,5 +113446,77 @@
         "Hora_ingreso": "17:24",
         "Hora_salida": "18:46",
         "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "DAVILA ATANACIO PASION NEOMIAS",
+        "Documento": "DNI 25700579",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:21",
+        "Hora_salida": "20:03",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "PAREDES CASTRO FRANCIS JHASMINA",
+        "Documento": "DNI 40858548",
+        "Entidad": "CONGRESISTA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:26",
+        "Hora_salida": "20:02",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "ZEA CHOQUECHAMBI OSCAR",
+        "Documento": "DNI 01327194",
+        "Entidad": "CONGRESO DE LA REPÚBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:27",
+        "Hora_salida": "20:02",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "UGARTE MAMANI JHAKELINE KATY",
+        "Documento": "DNI 24711696",
+        "Entidad": "CONGRESO DE LA REPÚBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:27",
+        "Hora_salida": "20:03",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "COLALA VILLEGAS JESUS",
+        "Documento": "DNI 41444752",
+        "Entidad": "EBD",
+        "Motivo": "PROVISION DE SERVICIOS",
+        "Empleado_publico": "SALAZAR PAUCAR CARLOS ENRIQUE",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACIONESPECIALISTA EN REDES Y COMUNICACIONES",
+        "Hora_ingreso": "17:30",
+        "Hora_salida": "19:00",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "TELLO MONTES NIVARDO EDGAR",
+        "Documento": "DNI 09575873",
+        "Entidad": "CONGRESO DE REPÚBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:47",
+        "Hora_salida": "20:02",
+        "Observacion": ""
     }
 ]
