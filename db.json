@@ -113578,5 +113578,65 @@
         "Hora_ingreso": "19:37",
         "Hora_salida": "21:33",
         "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "SANCHEZ PALOMINO ROBERTO HELBERT",
+        "Documento": "DNI 16002918",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "18:28",
+        "Hora_salida": "21:35",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "GUEVARA AMASIFUEN MESIAS ANTONIO",
+        "Documento": "DNI 09871134",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "18:57",
+        "Hora_salida": "21:31",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "PEREZ OSORES RODOLFO",
+        "Documento": "DNI 42979278",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "19:12",
+        "Hora_salida": "21:31",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "DE LA CRUZ PONCE EDWIN IVAÑEZ",
+        "Documento": "DNI 10770288",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "19:12",
+        "Hora_salida": "21:32",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/12/2021",
+        "Visitante": "FLORES REATEGUI LUIS ERNESTO",
+        "Documento": "DNI 40945957",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "19:18",
+        "Hora_salida": "21:37",
+        "Observacion": ""
     }
 ]
