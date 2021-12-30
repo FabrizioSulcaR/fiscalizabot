@@ -113746,5 +113746,17 @@
         "Hora_ingreso": "04:29",
         "Hora_salida": "04:36",
         "Observacion": ""
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "DOMINGUEZ CHICCHE MILAGROS",
+        "Documento": "DNI 43211424",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "06:53",
+        "Hora_salida": "07:02",
+        "Observacion": ""
     }
 ]
