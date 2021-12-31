@@ -114190,5 +114190,89 @@
         "Hora_ingreso": "18:56",
         "Hora_salida": "19:04",
         "Observacion": ""
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "FERNANDEZ LATORRE JOSE LUIS",
+        "Documento": "DNI 16718880",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SUBSECRETARIA GENERAL",
+        "Hora_ingreso": "07:50",
+        "Hora_salida": "20:40",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "JARA ROJAS ANA LUISA",
+        "Documento": "DNI 70439570",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: Reunión",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "10:09",
+        "Hora_salida": "21:25",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "ROBLES RIVERA LUIS SANTIAGO",
+        "Documento": "DNI 42957736",
+        "Entidad": "DINI",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "14:09",
+        "Hora_salida": "20:56",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "CASTRO POSADAS PAUL",
+        "Documento": "DNI 44880882",
+        "Entidad": "DINI",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "14:09",
+        "Hora_salida": "20:55",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "CAJA RAMOS HUMBERTO",
+        "Documento": "DNI 08869014",
+        "Entidad": "DINI",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "14:09",
+        "Hora_salida": "20:56",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "GARCIA ACEVEDO CHRISTIAM EVERT",
+        "Documento": "DNI 19868246",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "18:02",
+        "Hora_salida": "20:47",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "30/12/2021",
+        "Visitante": "YOCTUN CABRERA LENIN",
+        "Documento": "DNI 40901965",
+        "Entidad": "DINI",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "18:53",
+        "Hora_salida": "21:00",
+        "Observacion": ""
     }
 ]
