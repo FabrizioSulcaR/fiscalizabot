@@ -114634,5 +114634,53 @@
         "Hora_ingreso": "15:29",
         "Hora_salida": "17:11",
         "Observacion": ""
+    },
+    {
+        "Fecha": "31/12/2021",
+        "Visitante": "LUYO SOLIS CRISTOFER FRANCO",
+        "Documento": "DNI 70711905",
+        "Entidad": "DINI",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "14:00",
+        "Hora_salida": "17:46",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "31/12/2021",
+        "Visitante": "CASTRO POSADAS PAUL",
+        "Documento": "DNI 44880882",
+        "Entidad": "DINI",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "14:00",
+        "Hora_salida": "17:45",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "31/12/2021",
+        "Visitante": "YOCTUN CABRERA LENIN",
+        "Documento": "DNI 40901965",
+        "Entidad": "DINI",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "14:50",
+        "Hora_salida": "17:46",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "31/12/2021",
+        "Visitante": "PASTOR LOMPARTE CARLOS ENRIQUE",
+        "Documento": "DNI 07752657",
+        "Entidad": "DINI",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "15:28",
+        "Hora_salida": "17:46",
+        "Observacion": ""
     }
 ]
