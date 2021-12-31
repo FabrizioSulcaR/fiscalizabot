@@ -114622,5 +114622,17 @@
         "Hora_ingreso": "13:41",
         "Hora_salida": "16:05",
         "Observacion": ""
+    },
+    {
+        "Fecha": "31/12/2021",
+        "Visitante": "RAMIREZ APOLINARIO RODOLFO GUSTAVO",
+        "Documento": "DNI 40678765",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "PRETEL MOSTACERO WILSON GARI",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "15:29",
+        "Hora_salida": "17:11",
+        "Observacion": ""
     }
 ]
