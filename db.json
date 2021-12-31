@@ -114418,5 +114418,41 @@
         "Hora_ingreso": "10:07",
         "Hora_salida": "10:33",
         "Observacion": ""
+    },
+    {
+        "Fecha": "31/12/2021",
+        "Visitante": "RAMIREZ APOLINARIO RODOLFO GUSTAVO",
+        "Documento": "DNI 40678765",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "PRETEL MOSTACERO WILSON GARI",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "10:46",
+        "Hora_salida": "11:06",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "31/12/2021",
+        "Visitante": "VILLANUEVA REYES ANALI CINTHIA",
+        "Documento": "DNI 46224725",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "11:09",
+        "Hora_salida": "11:17",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "31/12/2021",
+        "Visitante": "DOMINGUEZ CHICCHE MILAGROS",
+        "Documento": "DNI 43211424",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "11:09",
+        "Hora_salida": "11:15",
+        "Observacion": ""
     }
 ]
