@@ -114322,5 +114322,29 @@
         "Hora_ingreso": "07:11",
         "Hora_salida": "07:52",
         "Observacion": ""
+    },
+    {
+        "Fecha": "31/12/2021",
+        "Visitante": "ZEBALLOS MADARIAGA CARLOS JAVIER",
+        "Documento": "DNI 02417724",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO LEON BIBERTO BENERANDO",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "08:03",
+        "Hora_salida": "09:07",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "31/12/2021",
+        "Visitante": "SALHUANA CAVIDES EDUARDO",
+        "Documento": "DNI 05070188",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO LEON BIBERTO BENERANDO",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "08:03",
+        "Hora_salida": "09:07",
+        "Observacion": ""
     }
 ]
