@@ -114562,5 +114562,17 @@
         "Hora_ingreso": "13:32",
         "Hora_salida": "14:12",
         "Observacion": ""
+    },
+    {
+        "Fecha": "31/12/2021",
+        "Visitante": "PASTOR LOMPARTE CARLOS ENRIQUE",
+        "Documento": "DNI 07752657",
+        "Entidad": "DINI",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "09:16",
+        "Hora_salida": "14:33",
+        "Observacion": ""
     }
 ]
