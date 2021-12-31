@@ -114394,5 +114394,29 @@
         "Hora_ingreso": "09:52",
         "Hora_salida": "10:05",
         "Observacion": ""
+    },
+    {
+        "Fecha": "31/12/2021",
+        "Visitante": "SANCHEZ TORRES PIERO LESTER",
+        "Documento": "DNI 43049908",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "FALCONI VALLEJOS GREGORIO MARTIN",
+        "Oficina_cargo": "DIRECCION DE PRENSA",
+        "Hora_ingreso": "08:07",
+        "Hora_salida": "10:19",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "31/12/2021",
+        "Visitante": "BORRERO ROJAS ALDO FABRIZIO",
+        "Documento": "DNI 07258432",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "PRETEL MOSTACERO WILSON GARI",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "10:07",
+        "Hora_salida": "10:33",
+        "Observacion": ""
     }
 ]
