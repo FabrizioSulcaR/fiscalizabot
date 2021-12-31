@@ -114574,5 +114574,53 @@
         "Hora_ingreso": "09:16",
         "Hora_salida": "14:33",
         "Observacion": ""
+    },
+    {
+        "Fecha": "31/12/2021",
+        "Visitante": "ZEVALLOS CUCHO ADA MARLENY",
+        "Documento": "DNI 10749229",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "06:39",
+        "Hora_salida": "16:17",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "31/12/2021",
+        "Visitante": "DIAZ HUANSI CARLA PATRICIA",
+        "Documento": "DNI 40504625",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "06:45",
+        "Hora_salida": "16:17",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "31/12/2021",
+        "Visitante": "TRUJILLO ROMERO ABNER CLAUDIO",
+        "Documento": "DNI 47249172",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO LEON BIBERTO BENERANDO",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "13:40",
+        "Hora_salida": "16:04",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "31/12/2021",
+        "Visitante": "VALDERRAMA VALDERRAMA LUIS RICARDO",
+        "Documento": "DNI 42850638",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO LEON BIBERTO BENERANDO",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "13:41",
+        "Hora_salida": "16:05",
+        "Observacion": ""
     }
 ]
