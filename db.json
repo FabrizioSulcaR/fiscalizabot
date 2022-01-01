@@ -114682,5 +114682,29 @@
         "Hora_ingreso": "15:28",
         "Hora_salida": "17:46",
         "Observacion": ""
+    },
+    {
+        "Fecha": "31/12/2021",
+        "Visitante": "VILLANUEVA ANAMPA ROBERT FRANCO",
+        "Documento": "DNI 46418143",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CAJIGAS PELAEZ FRANK DARCY",
+        "Oficina_cargo": "AREA DE PREVENCIÓN DE RIESGOS DE DESASTRES",
+        "Hora_ingreso": "15:44",
+        "Hora_salida": "20:05",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "31/12/2021",
+        "Visitante": "ANGULO ARGUEDAS JOSE LUIS",
+        "Documento": "DNI 43696474",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CAJIGAS PELAEZ FRANK DARCY",
+        "Oficina_cargo": "AREA DE PREVENCIÓN DE RIESGOS DE DESASTRES",
+        "Hora_ingreso": "15:44",
+        "Hora_salida": "20:05",
+        "Observacion": ""
     }
 ]
