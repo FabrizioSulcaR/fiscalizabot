@@ -114706,5 +114706,17 @@
         "Hora_ingreso": "15:44",
         "Hora_salida": "20:05",
         "Observacion": ""
+    },
+    {
+        "Fecha": "01/01/2022",
+        "Visitante": "ESCOBAR AURIS JORGE ENRIQUE",
+        "Documento": "DNI 41767621",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "07:37",
+        "Hora_salida": "13:08",
+        "Observacion": ""
     }
 ]
