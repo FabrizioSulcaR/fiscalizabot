@@ -114790,5 +114790,29 @@
         "Hora_ingreso": "12:07",
         "Hora_salida": "12:30",
         "Observacion": ""
+    },
+    {
+        "Fecha": "02/01/2022",
+        "Visitante": "BUSTAMANTE HUAMANI ANSHELYNE KARIN",
+        "Documento": "DNI 73985548",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: INGRESO HIJA DE MAYORDOMO",
+        "Empleado_publico": "HUAMANI ENRIQUEZ LIZ MARIBEL",
+        "Oficina_cargo": "CASA MILITAR",
+        "Hora_ingreso": "12:03",
+        "Hora_salida": "14:02",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "02/01/2022",
+        "Visitante": "LIZA MARCHENA RAUL ALEXIS",
+        "Documento": "DNI 43309852",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "MARIN SALDAÑA MARCO ANTONIO",
+        "Oficina_cargo": "CASA MILITAR",
+        "Hora_ingreso": "13:22",
+        "Hora_salida": "13:59",
+        "Observacion": ""
     }
 ]
