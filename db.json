@@ -114862,5 +114862,17 @@
         "Hora_ingreso": "12:45",
         "Hora_salida": "15:17",
         "Observacion": ""
+    },
+    {
+        "Fecha": "02/01/2022",
+        "Visitante": "ANGULO ARGUEDAS JOSE LUIS",
+        "Documento": "DNI 43696474",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "GONZALES PEZO JORGE LUIS",
+        "Oficina_cargo": "CASA MILITAR",
+        "Hora_ingreso": "09:40",
+        "Hora_salida": "17:12",
+        "Observacion": ""
     }
 ]
