@@ -114766,5 +114766,29 @@
         "Hora_ingreso": "11:33",
         "Hora_salida": "12:03",
         "Observacion": ""
+    },
+    {
+        "Fecha": "02/01/2022",
+        "Visitante": "PUESCAS ROSSEL PEDRO GERMAN",
+        "Documento": "DNI 32134872",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "12:07",
+        "Hora_salida": "12:31",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "02/01/2022",
+        "Visitante": "CASTRO POSADAS PAUL",
+        "Documento": "DNI 44880882",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "12:07",
+        "Hora_salida": "12:30",
+        "Observacion": ""
     }
 ]
