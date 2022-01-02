@@ -114874,5 +114874,17 @@
         "Hora_ingreso": "09:40",
         "Hora_salida": "17:12",
         "Observacion": ""
+    },
+    {
+        "Fecha": "02/01/2022",
+        "Visitante": "VILLANUEVA ANAMPA ROBERT FRANCO",
+        "Documento": "DNI 46418143",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "GONZALES PEZO JORGE LUIS",
+        "Oficina_cargo": "CASA MILITAR",
+        "Hora_ingreso": "09:40",
+        "Hora_salida": "17:28",
+        "Observacion": ""
     }
 ]
