@@ -115030,5 +115030,17 @@
         "Hora_ingreso": "06:41",
         "Hora_salida": "06:47",
         "Observacion": ""
+    },
+    {
+        "Fecha": "03/01/2022",
+        "Visitante": "GOMEZ COSIO GUSTAVO ADOLFO",
+        "Documento": "DNI 47585098",
+        "Entidad": "COMERCIAL GOMEZ Y COSIO SAC",
+        "Motivo": "OTROS: PROVEEDOR DE PESCADOS CON FICHA TECNICA",
+        "Empleado_publico": "YANAPA ZENTENO MARCO ANTONIO",
+        "Oficina_cargo": "AREA DE ALIMENTACIóN",
+        "Hora_ingreso": "08:09",
+        "Hora_salida": "08:18",
+        "Observacion": ""
     }
 ]
