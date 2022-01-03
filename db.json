@@ -115066,5 +115066,17 @@
         "Hora_ingreso": "09:17",
         "Hora_salida": "09:46",
         "Observacion": ""
+    },
+    {
+        "Fecha": "03/01/2022",
+        "Visitante": "SERNA ROMAN ROSENDO LEONCIO",
+        "Documento": "DNI 22491596",
+        "Entidad": "MINEDU",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "07:54",
+        "Hora_salida": "09:44",
+        "Observacion": ""
     }
 ]
