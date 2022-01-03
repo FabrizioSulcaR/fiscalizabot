@@ -115042,5 +115042,17 @@
         "Hora_ingreso": "08:09",
         "Hora_salida": "08:18",
         "Observacion": ""
+    },
+    {
+        "Fecha": "03/01/2022",
+        "Visitante": "PARIONA TOLEDO JHON FUISHER",
+        "Documento": "DNI 75533869",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: PROVEEDOR DE CARNE DE AVES",
+        "Empleado_publico": "YANAPA ZENTENO MARCO ANTONIO",
+        "Oficina_cargo": "AREA DE ALIMENTACIóN",
+        "Hora_ingreso": "08:45",
+        "Hora_salida": "09:25",
+        "Observacion": ""
     }
 ]
