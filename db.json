@@ -114886,5 +114886,53 @@
         "Hora_ingreso": "09:40",
         "Hora_salida": "17:28",
         "Observacion": ""
+    },
+    {
+        "Fecha": "02/01/2022",
+        "Visitante": "LUYO SOLIS CRISTOFER FRANCO",
+        "Documento": "DNI 70711905",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "15:27",
+        "Hora_salida": "19:44",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "02/01/2022",
+        "Visitante": "YOCTUN CABRERA LENIN",
+        "Documento": "DNI 40901965",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "17:26",
+        "Hora_salida": "19:02",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "02/01/2022",
+        "Visitante": "PUESCAS ROSSEL PEDRO GERMAN",
+        "Documento": "DNI 32134872",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: visita técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "18:26",
+        "Hora_salida": "19:05",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "02/01/2022",
+        "Visitante": "PUESCAS ROSSEL PEDRO GERMAN",
+        "Documento": "DNI 32134872",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "19:01",
+        "Hora_salida": "19:02",
+        "Observacion": ""
     }
 ]
