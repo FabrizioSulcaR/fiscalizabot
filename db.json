@@ -115078,5 +115078,17 @@
         "Hora_ingreso": "07:54",
         "Hora_salida": "09:44",
         "Observacion": ""
+    },
+    {
+        "Fecha": "03/01/2022",
+        "Visitante": "VALENZUELA SOTO ALBERTO",
+        "Documento": "DNI 09675166",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: Reunion",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SUBSECRETARIA GENERAL",
+        "Hora_ingreso": "10:00",
+        "Hora_salida": "10:31",
+        "Observacion": ""
     }
 ]
