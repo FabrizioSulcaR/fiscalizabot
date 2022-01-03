@@ -114934,5 +114934,17 @@
         "Hora_ingreso": "19:01",
         "Hora_salida": "19:02",
         "Observacion": ""
+    },
+    {
+        "Fecha": "02/01/2022",
+        "Visitante": "CASTRO POSADAS PAUL",
+        "Documento": "DNI 44880882",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: Visita Técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "15:27",
+        "Hora_salida": "20:59",
+        "Observacion": ""
     }
 ]
