@@ -115090,5 +115090,53 @@
         "Hora_ingreso": "10:00",
         "Hora_salida": "10:31",
         "Observacion": ""
+    },
+    {
+        "Fecha": "03/01/2022",
+        "Visitante": "DIAZ HUANSI CARLA PATRICIA",
+        "Documento": "DNI 40504625",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "05:47",
+        "Hora_salida": "12:00",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "03/01/2022",
+        "Visitante": "CHUMPITAZ RAMON VERONICA YANET",
+        "Documento": "DNI 40038089",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "06:01",
+        "Hora_salida": "12:00",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "03/01/2022",
+        "Visitante": "VILLACORTA AYLLON AUGUSTO",
+        "Documento": "DNI 09302428",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: visita técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "09:32",
+        "Hora_salida": "11:47",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "03/01/2022",
+        "Visitante": "LUYO SOLIS CRISTOFER FRANCO",
+        "Documento": "DNI 70711905",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: visita técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "09:41",
+        "Hora_salida": "11:45",
+        "Observacion": ""
     }
 ]
