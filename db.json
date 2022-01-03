@@ -115234,5 +115234,17 @@
         "Hora_ingreso": "14:32",
         "Hora_salida": "14:54",
         "Observacion": ""
+    },
+    {
+        "Fecha": "03/01/2022",
+        "Visitante": "CORONEL GONZÁLEZ HUALTER",
+        "Documento": "DNI 27418072",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: reunion de trabajo",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SUBSECRETARIA GENERAL",
+        "Hora_ingreso": "15:01",
+        "Hora_salida": "15:50",
+        "Observacion": ""
     }
 ]
