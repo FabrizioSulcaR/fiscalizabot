@@ -115330,5 +115330,41 @@
         "Hora_ingreso": "14:11",
         "Hora_salida": "18:19",
         "Observacion": ""
+    },
+    {
+        "Fecha": "03/01/2022",
+        "Visitante": "CASTRO POSADAS PAUL",
+        "Documento": "DNI 44880882",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: visita técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "14:49",
+        "Hora_salida": "18:45",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "03/01/2022",
+        "Visitante": "YOCTUN CABRERA LENIN",
+        "Documento": "DNI 40901965",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: visita técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "18:09",
+        "Hora_salida": "18:44",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "03/01/2022",
+        "Visitante": "PUESCAS ROSSEL PEDRO GERMAN",
+        "Documento": "DNI 32134872",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: visita técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "18:09",
+        "Hora_salida": "18:42",
+        "Observacion": ""
     }
 ]
