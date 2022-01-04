@@ -115774,5 +115774,17 @@
         "Hora_ingreso": "05:58",
         "Hora_salida": "14:54",
         "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "ZEVALLOS CUCHO ADA MARLENY",
+        "Documento": "DNI 10749229",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "05:35",
+        "Hora_salida": "15:07",
+        "Observacion": ""
     }
 ]
