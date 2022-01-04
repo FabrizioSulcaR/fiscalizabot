@@ -115738,5 +115738,17 @@
         "Hora_ingreso": "12:49",
         "Hora_salida": "13:30",
         "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "HUAMAN RIOS JEANNETTE",
+        "Documento": "DNI 43310392",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "LEON TORRES ORIZON OMAR",
+        "Oficina_cargo": "CASA MILITAR",
+        "Hora_ingreso": "06:42",
+        "Hora_salida": "14:13",
+        "Observacion": ""
     }
 ]
