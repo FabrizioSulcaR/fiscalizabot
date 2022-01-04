@@ -115750,5 +115750,17 @@
         "Hora_ingreso": "06:42",
         "Hora_salida": "14:13",
         "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "ALVAREZ REYES RODOLFO RUBEN",
+        "Documento": "DNI 44961895",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "05:40",
+        "Hora_salida": "14:38",
+        "Observacion": ""
     }
 ]
