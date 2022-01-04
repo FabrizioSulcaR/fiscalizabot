@@ -115534,5 +115534,41 @@
         "Hora_ingreso": "05:05",
         "Hora_salida": "05:08",
         "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "QUEVEDO NAVARRO JOSE ANTONIO",
+        "Documento": "DNI 07337818",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: PERSONAL",
+        "Empleado_publico": "DIAZ DIAZ DE QUEVEDO LUCERO MARILU",
+        "Oficina_cargo": "OFICINA DE TELECOMUNICACIONES",
+        "Hora_ingreso": "08:00",
+        "Hora_salida": "10:17",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "ROBLES RIVERA LUIS SANTIAGO",
+        "Documento": "DNI 42957736",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: visita técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "08:16",
+        "Hora_salida": "10:00",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "LAVALLE SAAVEDRA NERY AUDONI",
+        "Documento": "DNI 02838996",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: visita técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "08:16",
+        "Hora_salida": "10:00",
+        "Observacion": ""
     }
 ]
