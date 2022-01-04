@@ -115606,5 +115606,41 @@
         "Hora_ingreso": "10:32",
         "Hora_salida": "10:48",
         "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "MALLQUI ANDAHUA VERONICA ANDREA",
+        "Documento": "DNI 44846675",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "10:26",
+        "Hora_salida": "11:28",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "VILLANUEVA REYES ANALI CINTHIA",
+        "Documento": "DNI 46224725",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "11:15",
+        "Hora_salida": "11:47",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "DOMINGUEZ CHICCHE MILAGROS",
+        "Documento": "DNI 43211424",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "11:15",
+        "Hora_salida": "11:47",
+        "Observacion": ""
     }
 ]
