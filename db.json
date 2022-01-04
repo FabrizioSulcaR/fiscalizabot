@@ -115462,5 +115462,29 @@
         "Hora_ingreso": "18:57",
         "Hora_salida": "22:48",
         "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "DOMINGUEZ CHICCHE MILAGROS",
+        "Documento": "DNI 43211424",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "06:53",
+        "Hora_salida": "06:57",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "VILLANUEVA REYES ANALI CINTHIA",
+        "Documento": "DNI 46224725",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "06:58",
+        "Hora_salida": "07:00",
+        "Observacion": ""
     }
 ]
