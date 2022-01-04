@@ -115798,5 +115798,29 @@
         "Hora_ingreso": "06:32",
         "Hora_salida": "15:35",
         "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "ESCOBAR AURIS JORGE ENRIQUE",
+        "Documento": "DNI 41767621",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "07:10",
+        "Hora_salida": "15:52",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "PAREDES GONZALES WILLIAM FRANK",
+        "Documento": "DNI 09851001",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "MARIN SALDAÑA MARCO ANTONIO",
+        "Oficina_cargo": "CASA MILITAR",
+        "Hora_ingreso": "15:40",
+        "Hora_salida": "15:52",
+        "Observacion": ""
     }
 ]
