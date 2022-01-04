@@ -115822,5 +115822,17 @@
         "Hora_ingreso": "15:40",
         "Hora_salida": "15:52",
         "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "MALLQUI ANDAHUA VERONICA ANDREA",
+        "Documento": "DNI 44846675",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "13:46",
+        "Hora_salida": "16:05",
+        "Observacion": ""
     }
 ]
