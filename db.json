@@ -115762,5 +115762,17 @@
         "Hora_ingreso": "05:40",
         "Hora_salida": "14:38",
         "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "CHUMPITAZ RAMON VERONICA YANET",
+        "Documento": "DNI 40038089",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "05:58",
+        "Hora_salida": "14:54",
+        "Observacion": ""
     }
 ]
