@@ -115894,5 +115894,41 @@
         "Hora_ingreso": "17:11",
         "Hora_salida": "17:33",
         "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "GONZALEZ TORO EDUARDO EUGENIO",
+        "Documento": "DNI 07745528",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SUBSECRETARIA GENERAL",
+        "Hora_ingreso": "16:09",
+        "Hora_salida": "18:08",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "CHAVEZ AREVALO HUGO ANGEL",
+        "Documento": "DNI 08722885",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SUBSECRETARIA GENERAL",
+        "Hora_ingreso": "16:34",
+        "Hora_salida": "18:06",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "CONTRERAS MIRANDA ALEX ALONSO",
+        "Documento": "DNI 42306918",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CAMACHO GADEA BEDER RAMON",
+        "Oficina_cargo": "SUBSECRETARIA GENERAL",
+        "Hora_ingreso": "16:49",
+        "Hora_salida": "18:06",
+        "Observacion": ""
     }
 ]
