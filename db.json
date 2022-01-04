@@ -115846,5 +115846,29 @@
         "Hora_ingreso": "14:07",
         "Hora_salida": "16:40",
         "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "GARCIA ACEVEDO CHRISTIAM EVERT",
+        "Documento": "DNI 19868246",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "GONZALES PEZO JORGE LUIS",
+        "Oficina_cargo": "CASA MILITAR",
+        "Hora_ingreso": "09:40",
+        "Hora_salida": "17:04",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "PAZ QUIROZ FELIX ALBERTO",
+        "Documento": "DNI 09412028",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "IDROGO MEJIA RODOLFO JAIME",
+        "Oficina_cargo": "SECRETARIA DE COMUNICACION ESTRATEGICA Y PRENSA",
+        "Hora_ingreso": "16:03",
+        "Hora_salida": "17:05",
+        "Observacion": ""
     }
 ]
