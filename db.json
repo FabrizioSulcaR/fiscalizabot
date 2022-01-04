@@ -115402,5 +115402,41 @@
         "Hora_ingreso": "18:55",
         "Hora_salida": "20:52",
         "Observacion": ""
+    },
+    {
+        "Fecha": "03/01/2022",
+        "Visitante": "PASTOR LOMPARTE CARLOS ENRIQUE",
+        "Documento": "DNI 07752657",
+        "Entidad": "DINI",
+        "Motivo": "OTROS: visita técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "09:32",
+        "Hora_salida": "22:47",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "03/01/2022",
+        "Visitante": "LAVALLE SAAVEDRA NERY AUDONI",
+        "Documento": "DNI 02838996",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: visita técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "10:12",
+        "Hora_salida": "22:48",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "03/01/2022",
+        "Visitante": "PUESCAS ROSSEL PEDRO GERMAN",
+        "Documento": "DNI 32134872",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: visita técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "18:56",
+        "Hora_salida": "22:47",
+        "Observacion": ""
     }
 ]
