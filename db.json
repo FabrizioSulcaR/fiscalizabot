@@ -115438,5 +115438,29 @@
         "Hora_ingreso": "18:56",
         "Hora_salida": "22:47",
         "Observacion": ""
+    },
+    {
+        "Fecha": "03/01/2022",
+        "Visitante": "ROBLES RIVERA LUIS SANTIAGO",
+        "Documento": "DNI 42957736",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: visita técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "10:12",
+        "Hora_salida": "22:48",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "03/01/2022",
+        "Visitante": "YOCTUN CABRERA LENIN",
+        "Documento": "DNI 40901965",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: visita técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "18:57",
+        "Hora_salida": "22:48",
+        "Observacion": ""
     }
 ]
