@@ -115486,5 +115486,29 @@
         "Hora_ingreso": "06:58",
         "Hora_salida": "07:00",
         "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "WESTPHALEN VALDEZ GABRIELA MARGARITA",
+        "Documento": "DNI 21558231",
+        "Entidad": "LAVA +",
+        "Motivo": "OTROS: PROVEEDOR DE MANTELES Y PRENDAS - LAVA+",
+        "Empleado_publico": "YANAPA ZENTENO MARCO ANTONIO",
+        "Oficina_cargo": "AREA DE ALIMENTACIóN",
+        "Hora_ingreso": "07:48",
+        "Hora_salida": "07:56",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "BERNAL VIERA JUAN MARTIN",
+        "Documento": "DNI 07540106",
+        "Entidad": "LAVA +",
+        "Motivo": "OTROS: PROVEEDOR DE MANTELES Y PRENDAS - LAVA+",
+        "Empleado_publico": "YANAPA ZENTENO MARCO ANTONIO",
+        "Oficina_cargo": "AREA DE ALIMENTACIóN",
+        "Hora_ingreso": "07:48",
+        "Hora_salida": "07:56",
+        "Observacion": ""
     }
 ]
