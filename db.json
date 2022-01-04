@@ -115786,5 +115786,17 @@
         "Hora_ingreso": "05:35",
         "Hora_salida": "15:07",
         "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "DIAZ HUANSI CARLA PATRICIA",
+        "Documento": "DNI 40504625",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: TRABAJOS DE MANTENIMIENTO",
+        "Empleado_publico": "VALVERDE TRUJILLO SANDRO JESUS",
+        "Oficina_cargo": "AREA DE SERVICIOS GENERALESRESPONSABLE DEL ÁREA DE SERVICIOS GENERALES",
+        "Hora_ingreso": "06:32",
+        "Hora_salida": "15:35",
+        "Observacion": ""
     }
 ]
