@@ -115690,5 +115690,29 @@
         "Hora_ingreso": "09:05",
         "Hora_salida": "12:42",
         "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "RIOS SEGURA CARLOS ALBERTO",
+        "Documento": "DNI 10060047",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "LEON FLORES LUIS ALBERTO",
+        "Oficina_cargo": "SECRETARIA DE ACTIVIDADES",
+        "Hora_ingreso": "08:42",
+        "Hora_salida": "13:04",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "UGARTE MAMANI JHAKELINE KATY",
+        "Documento": "DNI 24711696",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "VITON BURGA EDER ",
+        "Oficina_cargo": "SECRETARIA GENERAL",
+        "Hora_ingreso": "11:52",
+        "Hora_salida": "12:57",
+        "Observacion": ""
     }
 ]
