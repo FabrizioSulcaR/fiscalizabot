@@ -115870,5 +115870,29 @@
         "Hora_ingreso": "16:03",
         "Hora_salida": "17:05",
         "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "ALCA ARROYO FERNANDO",
+        "Documento": "DNI 41466866",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: visita técnica",
+        "Empleado_publico": "DIAZ BAZAN PEPE HERNANDO",
+        "Oficina_cargo": "OFICINA DE TECNOLOGIAS DE LA INFORMACION",
+        "Hora_ingreso": "12:48",
+        "Hora_salida": "17:24",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "04/01/2022",
+        "Visitante": "PAZ QUIROZ FELIX ALBERTO",
+        "Documento": "DNI 09412028",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "IDROGO MEJIA RODOLFO JAIME",
+        "Oficina_cargo": "SECRETARIA DE COMUNICACION ESTRATEGICA Y PRENSA",
+        "Hora_ingreso": "17:11",
+        "Hora_salida": "17:33",
+        "Observacion": ""
     }
 ]
