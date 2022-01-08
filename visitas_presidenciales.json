@@ -25306,5 +25306,17 @@
         "Hora_ingreso": "09:05",
         "Hora_salida": "11:46",
         "Observacion": ""
+    },
+    {
+        "Fecha": "08/01/2022",
+        "Visitante": "CERRON ROJAS VLADIMIR ROY",
+        "Documento": "DNI 06466585",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:28",
+        "Hora_salida": "14:00",
+        "Observacion": ""
     }
 ]
