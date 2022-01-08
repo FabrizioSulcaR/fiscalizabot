@@ -25270,5 +25270,29 @@
         "Hora_ingreso": "09:03",
         "Hora_salida": "14:29",
         "Observacion": ""
+    },
+    {
+        "Fecha": "08/01/2022",
+        "Visitante": "MAURTUA DE ROMAÑA OSCAR JOSE RICARDO",
+        "Documento": "DNI 10550482",
+        "Entidad": "MINISTRO DE RELACIONES EXTERIORES",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:55",
+        "Hora_salida": "09:19",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "08/01/2022",
+        "Visitante": "SALAVERRY VILLA DANIEL ENRIQUE",
+        "Documento": "DNI 18010708",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:15",
+        "Hora_salida": "10:55",
+        "Observacion": ""
     }
 ]
