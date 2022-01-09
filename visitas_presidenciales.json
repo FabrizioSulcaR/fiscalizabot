@@ -25318,5 +25318,41 @@
         "Hora_ingreso": "09:28",
         "Hora_salida": "14:00",
         "Observacion": ""
+    },
+    {
+        "Fecha": "09/01/2022",
+        "Visitante": "RAMIREZ MATEO RUBEN JOSE",
+        "Documento": "DNI 19811609",
+        "Entidad": "MINISTRO DE AMBIENTE",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:51",
+        "Hora_salida": "09:30",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "09/01/2022",
+        "Visitante": "CHERO MEDINA FELIX INOCENTE",
+        "Documento": "DNI 16749268",
+        "Entidad": "MINISTERIO DE DEFENSA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:53",
+        "Hora_salida": "10:10",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "09/01/2022",
+        "Visitante": "CARRASCO MILLONES JUAN MANUEL",
+        "Documento": "DNI 16782655",
+        "Entidad": "MINISTERIO DE DEFENSA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:53",
+        "Hora_salida": "10:10",
+        "Observacion": ""
     }
 ]
