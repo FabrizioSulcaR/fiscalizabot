@@ -25354,5 +25354,17 @@
         "Hora_ingreso": "08:53",
         "Hora_salida": "10:10",
         "Observacion": ""
+    },
+    {
+        "Fecha": "10/01/2022",
+        "Visitante": "CHAVEZ CHINO BETSSY BETZABET",
+        "Documento": "DNI 45746592",
+        "Entidad": "MINISTRA DE TRABAJO",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "11:25",
+        "Hora_salida": "11:55",
+        "Observacion": ""
     }
 ]
