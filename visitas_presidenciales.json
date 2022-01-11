@@ -25378,5 +25378,29 @@
         "Hora_ingreso": "08:13",
         "Hora_salida": "09:44",
         "Observacion": ""
+    },
+    {
+        "Fecha": "11/01/2022",
+        "Visitante": "SENMACHE ARTOLA DIMITRI NICOLAS",
+        "Documento": "DNI 08889500",
+        "Entidad": "MINISTERIO DEL INTERIOR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:40",
+        "Hora_salida": "18:24",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "11/01/2022",
+        "Visitante": "GUILLEN JAUREGUI AVELINO TRIFON",
+        "Documento": "DNI 08860868",
+        "Entidad": "MINISTERIO DEL INTERIOR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:40",
+        "Hora_salida": "18:24",
+        "Observacion": ""
     }
 ]
