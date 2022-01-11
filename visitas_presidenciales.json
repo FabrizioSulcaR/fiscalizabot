@@ -25366,5 +25366,17 @@
         "Hora_ingreso": "11:25",
         "Hora_salida": "11:55",
         "Observacion": ""
+    },
+    {
+        "Fecha": "11/01/2022",
+        "Visitante": "GONZALEZ TORO EDUARDO EUGENIO",
+        "Documento": "DNI 07745528",
+        "Entidad": "MINEM",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:13",
+        "Hora_salida": "09:44",
+        "Observacion": ""
     }
 ]
