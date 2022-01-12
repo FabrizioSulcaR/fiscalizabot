@@ -25402,5 +25402,17 @@
         "Hora_ingreso": "17:40",
         "Hora_salida": "18:24",
         "Observacion": ""
+    },
+    {
+        "Fecha": "12/01/2022",
+        "Visitante": "ROJAS LEO JUAN FRANCISCO",
+        "Documento": "DNI 08050134",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "15:26",
+        "Hora_salida": "17:32",
+        "Observacion": ""
     }
 ]
