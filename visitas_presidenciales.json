@@ -25486,5 +25486,89 @@
         "Hora_ingreso": "16:33",
         "Hora_salida": "17:18",
         "Observacion": ""
+    },
+    {
+        "Fecha": "14/01/2022",
+        "Visitante": "PALOMINO ARANA CARLOS ALFREDO",
+        "Documento": "DNI 21416533",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:30",
+        "Hora_salida": "17:20",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "14/01/2022",
+        "Visitante": "CONTRERAS DE LA CRUZ JAVIER",
+        "Documento": "DNI 28598326",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:30",
+        "Hora_salida": "17:20",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "14/01/2022",
+        "Visitante": "VASQUEZ OCHOA WALTER",
+        "Documento": "DNI 45403938",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:31",
+        "Hora_salida": "17:19",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "14/01/2022",
+        "Visitante": "ALLENDE CANDIA LILIANA",
+        "Documento": "DNI 42933627",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:31",
+        "Hora_salida": "17:19",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "14/01/2022",
+        "Visitante": "RUA CARBAJAL RULI ROBERTO",
+        "Documento": "DNI 28605451",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:33",
+        "Hora_salida": "17:20",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "14/01/2022",
+        "Visitante": "MALDONADO QUISPE ESTEBAN",
+        "Documento": "DNI 20004086",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:33",
+        "Hora_salida": "17:18",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "14/01/2022",
+        "Visitante": "AYALA AQUINO ALEJANDRO CARLOS",
+        "Documento": "DNI 28597389",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:33",
+        "Hora_salida": "17:20",
+        "Observacion": ""
     }
 ]
