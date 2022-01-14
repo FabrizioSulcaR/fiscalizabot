@@ -25426,5 +25426,65 @@
         "Hora_ingreso": "09:21",
         "Hora_salida": "11:52",
         "Observacion": ""
+    },
+    {
+        "Fecha": "14/01/2022",
+        "Visitante": "QUISPE ARONES JESUS OSWALDO",
+        "Documento": "DNI 09439873",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:30",
+        "Hora_salida": "17:17",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "14/01/2022",
+        "Visitante": "MAS MARQUEZ CARLOS ALBERTO",
+        "Documento": "DNI 07460032",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:30",
+        "Hora_salida": "17:17",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "14/01/2022",
+        "Visitante": "GOZME LA FUENTE ADRIAN",
+        "Documento": "DNI 28576119",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:32",
+        "Hora_salida": "17:17",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "14/01/2022",
+        "Visitante": "VILA GUTIERREZ ABRAHAM",
+        "Documento": "DNI 42015524",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:33",
+        "Hora_salida": "17:17",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "14/01/2022",
+        "Visitante": "HUAMAN JUSCAMAYTA LUIS HERMINIO",
+        "Documento": "DNI 28310106",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:33",
+        "Hora_salida": "17:18",
+        "Observacion": ""
     }
 ]
