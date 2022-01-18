@@ -25582,5 +25582,41 @@
         "Hora_ingreso": "10:01",
         "Hora_salida": "10:41",
         "Observacion": ""
+    },
+    {
+        "Fecha": "18/01/2022",
+        "Visitante": "CUCHO HIDALGO MARYE NIGAJ ALESSANDRA",
+        "Documento": "DNI 70457258",
+        "Entidad": "ESSALUD",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:55",
+        "Hora_salida": "17:36",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "18/01/2022",
+        "Visitante": "BONILLA YARANGA JESUS PERCY",
+        "Documento": "DNI 08756962",
+        "Entidad": "ESSALUD",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:55",
+        "Hora_salida": "17:37",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "18/01/2022",
+        "Visitante": "MALDONADO CAMARENA FABIOLA KATHERINE",
+        "Documento": "DNI 47020881",
+        "Entidad": "ESSALUD",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:11",
+        "Hora_salida": "17:37",
+        "Observacion": ""
     }
 ]
