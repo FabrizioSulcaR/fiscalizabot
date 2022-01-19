@@ -25618,5 +25618,17 @@
         "Hora_ingreso": "17:11",
         "Hora_salida": "17:37",
         "Observacion": ""
+    },
+    {
+        "Fecha": "19/01/2022",
+        "Visitante": "YOVERA ODICIO ABEL FERNANDO GERARDO",
+        "Documento": "DNI 07952068",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "07:35",
+        "Hora_salida": "09:06",
+        "Observacion": ""
     }
 ]
