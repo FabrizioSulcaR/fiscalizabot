@@ -25786,5 +25786,77 @@
         "Hora_ingreso": "11:54",
         "Hora_salida": "13:34",
         "Observacion": ""
+    },
+    {
+        "Fecha": "05/02/2022",
+        "Visitante": "SANCHEZ PALOMINO ROBERTO HELBERT",
+        "Documento": "DNI 16002918",
+        "Entidad": "MINISTERIO DE COMERCIO EXTERIOR Y TURISMO",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "11:05",
+        "Hora_salida": "14:46",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "05/02/2022",
+        "Visitante": "QUISPE APAZA YVAN",
+        "Documento": "DNI 42741824",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "11:05",
+        "Hora_salida": "14:45",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "05/02/2022",
+        "Visitante": "MIRANDA PURIZAGA MIGUEL EDUARDO",
+        "Documento": "DNI 02786023",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "11:05",
+        "Hora_salida": "14:45",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "05/02/2022",
+        "Visitante": "LEON GONZALES ENVER MAO",
+        "Documento": "DNI 10582346",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "11:05",
+        "Hora_salida": "14:45",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "05/02/2022",
+        "Visitante": "CANAHUIRE CHOQUEPATA ALEJANDRO FIDEL",
+        "Documento": "DNI 24710412",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "11:05",
+        "Hora_salida": "14:46",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "05/02/2022",
+        "Visitante": "QUIROZ BARBOZA SEGUNDO TEODOMIRO",
+        "Documento": "DNI 27361499",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "13:36",
+        "Hora_salida": "14:44",
+        "Observacion": ""
     }
 ]
