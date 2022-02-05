@@ -25858,5 +25858,29 @@
         "Hora_ingreso": "13:36",
         "Hora_salida": "14:44",
         "Observacion": ""
+    },
+    {
+        "Fecha": "05/02/2022",
+        "Visitante": "VASQUEZ HERRERA FLOR YANETH",
+        "Documento": "DNI 76088113",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "14:49",
+        "Hora_salida": "16:40",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "05/02/2022",
+        "Visitante": "SUPO QUISOCALA WILBER DUX",
+        "Documento": "DNI 46340228",
+        "Entidad": "MINISTERIO DE AMBIENTE",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "15:47",
+        "Hora_salida": "16:26",
+        "Observacion": ""
     }
 ]
