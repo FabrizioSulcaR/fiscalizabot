@@ -25678,5 +25678,29 @@
         "Hora_ingreso": "00:00",
         "Hora_salida": "00:26",
         "Observacion": ""
+    },
+    {
+        "Fecha": "05/02/2022",
+        "Visitante": "SERNA ROMAN ROSENDO LEONCIO",
+        "Documento": "DNI 22491596",
+        "Entidad": "MINISTERIO DE EDUCACION",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:56",
+        "Hora_salida": "10:25",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "05/02/2022",
+        "Visitante": "BERMEJO ROJAS GUILLERMO",
+        "Documento": "DNI 07638265",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "10:35",
+        "Hora_salida": "11:22",
+        "Observacion": ""
     }
 ]
