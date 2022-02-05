@@ -25702,5 +25702,29 @@
         "Hora_ingreso": "10:35",
         "Hora_salida": "11:22",
         "Observacion": ""
+    },
+    {
+        "Fecha": "05/02/2022",
+        "Visitante": "QUIROZ BARBOZA SEGUNDO TEODOMIRO",
+        "Documento": "DNI 27361499",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "11:14",
+        "Hora_salida": "12:20",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "05/02/2022",
+        "Visitante": "PAREDES CASTRO FRANCIS JHASMINA",
+        "Documento": "DNI 40858548",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "11:27",
+        "Hora_salida": "12:28",
+        "Observacion": ""
     }
 ]
