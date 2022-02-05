@@ -25762,5 +25762,29 @@
         "Hora_ingreso": "12:43",
         "Hora_salida": "13:38",
         "Observacion": ""
+    },
+    {
+        "Fecha": "05/02/2022",
+        "Visitante": "TIBURCIO ORBEZO VICENTE",
+        "Documento": "DNI 07477167",
+        "Entidad": "POLICIA NACIONAL DEL PERU",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "11:54",
+        "Hora_salida": "13:34",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "05/02/2022",
+        "Visitante": "CHAVARRY ESTRADA ALFONSO GILBERTO",
+        "Documento": "DNI 26686623",
+        "Entidad": "MINISTERIO DEL INTERIOR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "11:54",
+        "Hora_salida": "13:34",
+        "Observacion": ""
     }
 ]
