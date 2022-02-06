@@ -25954,5 +25954,17 @@
         "Hora_ingreso": "12:35",
         "Hora_salida": "13:03",
         "Observacion": ""
+    },
+    {
+        "Fecha": "06/02/2022",
+        "Visitante": "TORRES VASQUEZ ANIBAL",
+        "Documento": "DNI 06105850",
+        "Entidad": "MINJUS",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "13:28",
+        "Hora_salida": "14:50",
+        "Observacion": ""
     }
 ]
