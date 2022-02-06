@@ -26026,5 +26026,17 @@
         "Hora_ingreso": "15:14",
         "Hora_salida": "16:41",
         "Observacion": ""
+    },
+    {
+        "Fecha": "06/02/2022",
+        "Visitante": "CEVALLOS FLORES HERNANDO ISMAEL",
+        "Documento": "DNI 02792297",
+        "Entidad": "MINSA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "15:54",
+        "Hora_salida": "17:05",
+        "Observacion": ""
     }
 ]
