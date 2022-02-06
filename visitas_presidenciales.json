@@ -25942,5 +25942,17 @@
         "Hora_ingreso": "07:20",
         "Hora_salida": "11:24",
         "Observacion": ""
+    },
+    {
+        "Fecha": "06/02/2022",
+        "Visitante": "MARTINEZ TALAVERA PEDRO EDWIN",
+        "Documento": "DNI 29384343",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:35",
+        "Hora_salida": "13:03",
+        "Observacion": ""
     }
 ]
