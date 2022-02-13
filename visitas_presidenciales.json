@@ -26086,5 +26086,29 @@
         "Hora_ingreso": "09:10",
         "Hora_salida": "09:57",
         "Observacion": ""
+    },
+    {
+        "Fecha": "13/02/2022",
+        "Visitante": "TIBURCIO ORBEZO VICENTE",
+        "Documento": "DNI 07477167",
+        "Entidad": "PNP",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "11:58",
+        "Hora_salida": "13:14",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "13/02/2022",
+        "Visitante": "CHAVARRY ESTRADA ALFONSO GILBERTO",
+        "Documento": "DNI 26686623",
+        "Entidad": "MINISTERIO DEL INTERIOR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "11:58",
+        "Hora_salida": "13:14",
+        "Observacion": ""
     }
 ]
