@@ -26134,5 +26134,17 @@
         "Hora_ingreso": "15:03",
         "Hora_salida": "15:37",
         "Observacion": ""
+    },
+    {
+        "Fecha": "13/02/2022",
+        "Visitante": "APOLINAR ORTIZ ROGER WUALTHER",
+        "Documento": "DNI 07241022",
+        "Entidad": "PREFECTO",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:30",
+        "Hora_salida": "18:53",
+        "Observacion": ""
     }
 ]
