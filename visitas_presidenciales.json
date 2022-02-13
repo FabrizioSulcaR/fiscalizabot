@@ -26038,5 +26038,53 @@
         "Hora_ingreso": "15:54",
         "Hora_salida": "17:05",
         "Observacion": ""
+    },
+    {
+        "Fecha": "13/02/2022",
+        "Visitante": "MARTICORENA MENDOZA JORGE ALFONSO",
+        "Documento": "DNI 21456255",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:14",
+        "Hora_salida": "08:50",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "13/02/2022",
+        "Visitante": "BALCAZAR ZELADA JOSE MARIA",
+        "Documento": "DNI 16642438",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:14",
+        "Hora_salida": "08:50",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "13/02/2022",
+        "Visitante": "MAMANI CONDORI GROVER",
+        "Documento": "DNI 02030895",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:50",
+        "Hora_salida": "09:29",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "13/02/2022",
+        "Visitante": "TORRES URIARTE ROBER LEYTO",
+        "Documento": "DNI 27715383",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:10",
+        "Hora_salida": "09:57",
+        "Observacion": ""
     }
 ]
