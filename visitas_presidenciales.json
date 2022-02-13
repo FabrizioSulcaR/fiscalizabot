@@ -26110,5 +26110,17 @@
         "Hora_ingreso": "11:58",
         "Hora_salida": "13:14",
         "Observacion": ""
+    },
+    {
+        "Fecha": "13/02/2022",
+        "Visitante": "VEGA ANTONIO JOSE ALEJANDRO",
+        "Documento": "DNI 08330968",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:12",
+        "Hora_salida": "14:31",
+        "Observacion": ""
     }
 ]
