@@ -26242,5 +26242,17 @@
         "Hora_ingreso": "16:05",
         "Hora_salida": "17:04",
         "Observacion": ""
+    },
+    {
+        "Fecha": "27/02/2022",
+        "Visitante": "MONTOYA ZAVALETA MODESTO EDILBERTO",
+        "Documento": "DNI 06617805",
+        "Entidad": "MINISTRO DE AMBIENTE",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:12",
+        "Hora_salida": "17:52",
+        "Observacion": ""
     }
 ]
