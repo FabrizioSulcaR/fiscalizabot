@@ -26230,5 +26230,17 @@
         "Hora_ingreso": "13:49",
         "Hora_salida": "16:33",
         "Observacion": ""
+    },
+    {
+        "Fecha": "27/02/2022",
+        "Visitante": "YLDEFONSO NARRO ANGEL FERNANDO",
+        "Documento": "DNI 32905782",
+        "Entidad": "MINISTRO DE JUSTICIA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:05",
+        "Hora_salida": "17:04",
+        "Observacion": ""
     }
 ]
