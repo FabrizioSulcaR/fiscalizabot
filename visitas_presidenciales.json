@@ -26146,5 +26146,53 @@
         "Hora_ingreso": "17:30",
         "Hora_salida": "18:53",
         "Observacion": ""
+    },
+    {
+        "Fecha": "27/02/2022",
+        "Visitante": "PRADO PALOMINO JORGE LUIS",
+        "Documento": "DNI 07641063",
+        "Entidad": "MINISTERIO DE LA PRODUCCION",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "07:55",
+        "Hora_salida": "08:25",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "27/02/2022",
+        "Visitante": "GAVIDIA ARRASCUE JOSE LUIS",
+        "Documento": "DNI 43448254",
+        "Entidad": "MINISTERIO DE DEFENSA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "07:55",
+        "Hora_salida": "08:25",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "27/02/2022",
+        "Visitante": "ZEA CHOQUECHAMBI OSCAR",
+        "Documento": "DNI 01327194",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "07:57",
+        "Hora_salida": "08:25",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "27/02/2022",
+        "Visitante": "SILVA VILLEGAS JUAN FRANCISCO",
+        "Documento": "DNI 27376472",
+        "Entidad": "MINISTERIO DE TRANSPORTES Y COMUNICACIONES",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:16",
+        "Hora_salida": "08:25",
+        "Observacion": ""
     }
 ]
