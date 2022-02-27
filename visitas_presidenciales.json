@@ -26218,5 +26218,17 @@
         "Hora_ingreso": "14:13",
         "Hora_salida": "15:21",
         "Observacion": ""
+    },
+    {
+        "Fecha": "27/02/2022",
+        "Visitante": "SILVA VILLEGAS JUAN FRANCISCO",
+        "Documento": "DNI 27376472",
+        "Entidad": "MINISTERIO DE TRANSPORTES Y COMUNICACIONES",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "13:49",
+        "Hora_salida": "16:33",
+        "Observacion": ""
     }
 ]
