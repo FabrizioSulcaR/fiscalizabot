@@ -26206,5 +26206,17 @@
         "Hora_ingreso": "14:03",
         "Hora_salida": "15:05",
         "Observacion": ""
+    },
+    {
+        "Fecha": "27/02/2022",
+        "Visitante": "CORDOVA ALEMAN WALTER HORACIO",
+        "Documento": "DNI 43391950",
+        "Entidad": "EJERCITO DEL PERU",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "14:13",
+        "Hora_salida": "15:21",
+        "Observacion": ""
     }
 ]
