@@ -26194,5 +26194,17 @@
         "Hora_ingreso": "08:16",
         "Hora_salida": "08:25",
         "Observacion": ""
+    },
+    {
+        "Fecha": "27/02/2022",
+        "Visitante": "GAVIDIA ARRASCUE JOSE LUIS",
+        "Documento": "DNI 43448254",
+        "Entidad": "MINISTERIO DE DEFENSA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "14:03",
+        "Hora_salida": "15:05",
+        "Observacion": ""
     }
 ]
