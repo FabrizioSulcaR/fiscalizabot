@@ -26266,5 +26266,17 @@
         "Hora_ingreso": "17:58",
         "Hora_salida": "18:23",
         "Observacion": ""
+    },
+    {
+        "Fecha": "02/03/2022",
+        "Visitante": "TARAZONA ALVINO MARIA ABIGUNDA",
+        "Documento": "DNI 42648040",
+        "Entidad": "MIDIS",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "10:27",
+        "Hora_salida": "11:05",
+        "Observacion": ""
     }
 ]
