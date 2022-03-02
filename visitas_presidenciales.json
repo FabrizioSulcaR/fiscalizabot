@@ -26278,5 +26278,17 @@
         "Hora_ingreso": "10:27",
         "Hora_salida": "11:05",
         "Observacion": ""
+    },
+    {
+        "Fecha": "02/03/2022",
+        "Visitante": "BOCANEGRA GALVEZ LUIS ORLANDO",
+        "Documento": "DNI 07642171",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:07",
+        "Hora_salida": "16:41",
+        "Observacion": ""
     }
 ]
