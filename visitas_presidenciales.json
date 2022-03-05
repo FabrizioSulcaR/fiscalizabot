@@ -26290,5 +26290,29 @@
         "Hora_ingreso": "16:07",
         "Hora_salida": "16:41",
         "Observacion": ""
+    },
+    {
+        "Fecha": "05/03/2022",
+        "Visitante": "CHERO MEDINA FELIX INOCENTE",
+        "Documento": "DNI 16749268",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:30",
+        "Hora_salida": "09:39",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "05/03/2022",
+        "Visitante": "CARRASCO MILLONES JUAN MANUEL",
+        "Documento": "DNI 16782655",
+        "Entidad": "MINISTERIO DE JUSTICIA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:30",
+        "Hora_salida": "09:39",
+        "Observacion": ""
     }
 ]
