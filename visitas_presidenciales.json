@@ -26362,5 +26362,29 @@
         "Hora_ingreso": "09:31",
         "Hora_salida": "09:46",
         "Observacion": ""
+    },
+    {
+        "Fecha": "05/03/2022",
+        "Visitante": "SANCHEZ QUISPE WILLIAMS PABLO EUSEBIO",
+        "Documento": "DNI 15431591",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "14:45",
+        "Hora_salida": "15:55",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "05/03/2022",
+        "Visitante": "HUCHARO ZARATE JUAN MODESTO",
+        "Documento": "DNI 09099780",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "14:45",
+        "Hora_salida": "15:55",
+        "Observacion": ""
     }
 ]
