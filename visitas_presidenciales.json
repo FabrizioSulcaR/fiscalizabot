@@ -26314,5 +26314,17 @@
         "Hora_ingreso": "08:30",
         "Hora_salida": "09:39",
         "Observacion": ""
+    },
+    {
+        "Fecha": "05/03/2022",
+        "Visitante": "QUISPE DE LOS SANTOS JIMMY MARCOS",
+        "Documento": "DNI 16743560",
+        "Entidad": "MINISTERIO DE DEFENSA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:39",
+        "Hora_salida": "09:39",
+        "Observacion": ""
     }
 ]
