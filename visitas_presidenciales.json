@@ -26326,5 +26326,41 @@
         "Hora_ingreso": "09:39",
         "Hora_salida": "09:39",
         "Observacion": ""
+    },
+    {
+        "Fecha": "05/03/2022",
+        "Visitante": "TARAZONA ALVINO MARIA ABIGUNDA",
+        "Documento": "DNI 42648040",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "07:50",
+        "Hora_salida": "09:03",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "05/03/2022",
+        "Visitante": "PAREDES CASTRO FRANCIS JHASMINA",
+        "Documento": "DNI 40858548",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:23",
+        "Hora_salida": "10:01",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "05/03/2022",
+        "Visitante": "GRAHAM YAMAHUCHI OSCAR MIGUEL",
+        "Documento": "DNI 08640571",
+        "Entidad": "MINISTERIO DE ECONOMIA Y FINANZAS",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:31",
+        "Hora_salida": "09:46",
+        "Observacion": ""
     }
 ]
