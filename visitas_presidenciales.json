@@ -26470,5 +26470,29 @@
         "Hora_ingreso": "08:20",
         "Hora_salida": "10:28",
         "Observacion": ""
+    },
+    {
+        "Fecha": "06/03/2022",
+        "Visitante": "PACHAS PALACIOS EDUARDO REMI",
+        "Documento": "DNI 09454319",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "07:58",
+        "Hora_salida": "11:44",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "06/03/2022",
+        "Visitante": "SALAS ZEGARRA ALEJANDRO ANTONIO",
+        "Documento": "DNI 10762763",
+        "Entidad": "MINISTERIO DE CULTURA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:11",
+        "Hora_salida": "11:45",
+        "Observacion": ""
     }
 ]
