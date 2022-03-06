@@ -26386,5 +26386,29 @@
         "Hora_ingreso": "14:45",
         "Hora_salida": "15:55",
         "Observacion": ""
+    },
+    {
+        "Fecha": "06/03/2022",
+        "Visitante": "VALDEZ TEJADA SHADIA ELIZABETH",
+        "Documento": "DNI 45517997",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:01",
+        "Hora_salida": "10:27",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "06/03/2022",
+        "Visitante": "REYES LLANOS JOSE FERNANDO",
+        "Documento": "DNI 41922908",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:01",
+        "Hora_salida": "10:27",
+        "Observacion": ""
     }
 ]
