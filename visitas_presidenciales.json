@@ -26494,5 +26494,17 @@
         "Hora_ingreso": "08:11",
         "Hora_salida": "11:45",
         "Observacion": ""
+    },
+    {
+        "Fecha": "12/03/2022",
+        "Visitante": "ECHEVERRIA RODRIGUEZ HAMLET",
+        "Documento": "DNI 27080597",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "OTROS: reunion",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:58",
+        "Hora_salida": "09:47",
+        "Observacion": ""
     }
 ]
