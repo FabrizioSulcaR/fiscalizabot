@@ -26542,5 +26542,113 @@
         "Hora_ingreso": "09:13",
         "Hora_salida": "10:24",
         "Observacion": ""
+    },
+    {
+        "Fecha": "12/03/2022",
+        "Visitante": "CONDORI SALINAS JOSE ALEJANDRO",
+        "Documento": "DNI 00487462",
+        "Entidad": "ZOFRATACNA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:15",
+        "Hora_salida": "14:46",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "12/03/2022",
+        "Visitante": "COILA RAMIREZ MERY INES",
+        "Documento": "DNI 00443113",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:15",
+        "Hora_salida": "14:49",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "12/03/2022",
+        "Visitante": "CHILI QUISPE ISAAC SACARIAS",
+        "Documento": "DNI 09944120",
+        "Entidad": "AJU ZOTAC",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:16",
+        "Hora_salida": "14:47",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "12/03/2022",
+        "Visitante": "ALVARADO CONTRERAS SEGUNDO MANUEL",
+        "Documento": "DNI 17805751",
+        "Entidad": "ZOFRATACNA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:17",
+        "Hora_salida": "14:47",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "12/03/2022",
+        "Visitante": "ADUVIRI CASTILLO REYNALDO",
+        "Documento": "DNI 40354257",
+        "Entidad": "GORE TACNA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:18",
+        "Hora_salida": "14:46",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "12/03/2022",
+        "Visitante": "VALDIVIA SALAZAR LUIS ALBERTO",
+        "Documento": "DNI 02144976",
+        "Entidad": "ZOFRATACNA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:19",
+        "Hora_salida": "14:45",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "12/03/2022",
+        "Visitante": "TONCONI QUISPE JUAN",
+        "Documento": "DNI 80176585",
+        "Entidad": "GOBIERNO REGIONAL TACNA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:21",
+        "Hora_salida": "14:45",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "12/03/2022",
+        "Visitante": "LIMACHI QUISPE NIEVES ESMERALDA",
+        "Documento": "DNI 41258762",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:33",
+        "Hora_salida": "14:50",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "12/03/2022",
+        "Visitante": "MAMANI MAMANI ELBER YERAL",
+        "Documento": "DNI 41833940",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:35",
+        "Hora_salida": "14:50",
+        "Observacion": ""
     }
 ]
