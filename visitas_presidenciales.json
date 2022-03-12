@@ -26686,5 +26686,17 @@
         "Hora_ingreso": "17:29",
         "Hora_salida": "17:29",
         "Observacion": ""
+    },
+    {
+        "Fecha": "12/03/2022",
+        "Visitante": "RODRIGUEZ MACKAY MIGUEL ANGEL",
+        "Documento": "DNI 07853721",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:03",
+        "Hora_salida": "17:38",
+        "Observacion": ""
     }
 ]
