@@ -26650,5 +26650,17 @@
         "Hora_ingreso": "12:35",
         "Hora_salida": "14:50",
         "Observacion": ""
+    },
+    {
+        "Fecha": "12/03/2022",
+        "Visitante": "LANDA ARROYO CESAR RODRIGO",
+        "Documento": "DNI 07773307",
+        "Entidad": "MINISTERIO DE RELACIONES EXTERIORES",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "15:24",
+        "Hora_salida": "16:23",
+        "Observacion": ""
     }
 ]
