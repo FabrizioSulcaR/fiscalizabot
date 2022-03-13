@@ -26722,5 +26722,17 @@
         "Hora_ingreso": "08:15",
         "Hora_salida": "11:18",
         "Observacion": ""
+    },
+    {
+        "Fecha": "13/03/2022",
+        "Visitante": "PACHAS PALACIOS EDUARDO REMI",
+        "Documento": "DNI 09454319",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "10:00",
+        "Hora_salida": "13:33",
+        "Observacion": ""
     }
 ]
