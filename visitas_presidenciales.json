@@ -26746,5 +26746,17 @@
         "Hora_ingreso": "15:53",
         "Hora_salida": "17:43",
         "Observacion": ""
+    },
+    {
+        "Fecha": "17/03/2022",
+        "Visitante": "PALACIOS AVALOS ROY CARLOS",
+        "Documento": "DNI 04208121",
+        "Entidad": "MINISTERIO DE EDUCACIÓN",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "00:00",
+        "Hora_salida": "00:34",
+        "Observacion": ""
     }
 ]
