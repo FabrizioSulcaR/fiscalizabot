@@ -26974,5 +26974,17 @@
         "Hora_ingreso": "12:30",
         "Hora_salida": "13:25",
         "Observacion": ""
+    },
+    {
+        "Fecha": "20/03/2022",
+        "Visitante": "FONSECA ESPINOZA ALEGRE RAUL",
+        "Documento": "DNI 18114819",
+        "Entidad": "ESSALUD",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:29",
+        "Hora_salida": "18:43",
+        "Observacion": ""
     }
 ]
