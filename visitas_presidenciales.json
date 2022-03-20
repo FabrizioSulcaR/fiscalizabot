@@ -26770,5 +26770,77 @@
         "Hora_ingreso": "08:16",
         "Hora_salida": "09:20",
         "Observacion": ""
+    },
+    {
+        "Fecha": "20/03/2022",
+        "Visitante": "PALACIOS PEREZ CARLOS SABINO",
+        "Documento": "DNI 06466433",
+        "Entidad": "MINISTERIO DE ENERGIA Y MINAS",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "07:44",
+        "Hora_salida": "10:28",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "20/03/2022",
+        "Visitante": "CHERO MEDINA FELIX INOCENTE",
+        "Documento": "DNI 16749268",
+        "Entidad": "MINISTERIO DE JUSTICIA",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "07:45",
+        "Hora_salida": "09:26",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "20/03/2022",
+        "Visitante": "BUSTAMANTE CORONADO NICOLAS",
+        "Documento": "DNI 07294793",
+        "Entidad": "MINISTRO DE TRANSPORTES Y COMUNICACIONES",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "07:47",
+        "Hora_salida": "11:10",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "20/03/2022",
+        "Visitante": "SALAS ZEGARRA ALEJANDRO ANTONIO",
+        "Documento": "DNI 10762763",
+        "Entidad": "MINISTERIO DE CULTURA",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "07:50",
+        "Hora_salida": "10:26",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "20/03/2022",
+        "Visitante": "PRADO PALOMINO JORGE LUIS",
+        "Documento": "DNI 07641063",
+        "Entidad": "MINISTERIO DE PRODUCCION",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "07:50",
+        "Hora_salida": "10:19",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "20/03/2022",
+        "Visitante": "GAVIDIA ARRASCUE JOSE LUIS",
+        "Documento": "DNI 43448254",
+        "Entidad": "MINISTERIO DE DEFENSA",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "07:53",
+        "Hora_salida": "10:22",
+        "Observacion": ""
     }
 ]
