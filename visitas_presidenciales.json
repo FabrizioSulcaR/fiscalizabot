@@ -26962,5 +26962,17 @@
         "Hora_ingreso": "12:00",
         "Hora_salida": "13:00",
         "Observacion": ""
+    },
+    {
+        "Fecha": "20/03/2022",
+        "Visitante": "CHAVEZ AREVALO HUGO ANGEL",
+        "Documento": "DNI 08722885",
+        "Entidad": "GERENTE GENERAL DE PETRO PERU",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:30",
+        "Hora_salida": "13:25",
+        "Observacion": ""
     }
 ]
