@@ -26998,5 +26998,41 @@
         "Hora_ingreso": "12:57",
         "Hora_salida": "13:53",
         "Observacion": ""
+    },
+    {
+        "Fecha": "26/03/2022",
+        "Visitante": "MELENDEZ GUERRA JUDITH LUCILA",
+        "Documento": "DNI 23956588",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "13:03",
+        "Hora_salida": "14:08",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "26/03/2022",
+        "Visitante": "HUAMANHUILLCA RIQUELME FELIX",
+        "Documento": "DNI 25318371",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "13:03",
+        "Hora_salida": "14:08",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "26/03/2022",
+        "Visitante": "ORIHUELA SUYO JAVIER",
+        "Documento": "DNI 23958739",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "13:05",
+        "Hora_salida": "14:08",
+        "Observacion": ""
     }
 ]
