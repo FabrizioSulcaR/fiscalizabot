@@ -27058,5 +27058,17 @@
         "Hora_ingreso": "17:04",
         "Hora_salida": "18:39",
         "Observacion": ""
+    },
+    {
+        "Fecha": "26/03/2022",
+        "Visitante": "CHERO MEDINA FELIX INOCENTE",
+        "Documento": "DNI 16749268",
+        "Entidad": "MINISTERIO DE JUSTICIA",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:18",
+        "Hora_salida": "18:49",
+        "Observacion": ""
     }
 ]
