@@ -27034,5 +27034,17 @@
         "Hora_ingreso": "13:05",
         "Hora_salida": "14:08",
         "Observacion": ""
+    },
+    {
+        "Fecha": "26/03/2022",
+        "Visitante": "VALDEZ SOLIS ROGELIO FELIPE",
+        "Documento": "DNI 44203247",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "13:03",
+        "Hora_salida": "14:08",
+        "Observacion": ""
     }
 ]
