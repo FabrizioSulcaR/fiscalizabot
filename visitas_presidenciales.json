@@ -27082,5 +27082,17 @@
         "Hora_ingreso": "08:14",
         "Hora_salida": "09:57",
         "Observacion": ""
+    },
+    {
+        "Fecha": "27/03/2022",
+        "Visitante": "RENDON SCHNEIR SILVIO ROBERTO",
+        "Documento": "DNI 08750611",
+        "Entidad": "BANCO INTERAMERICANO DE DESARROLLO",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "11:00",
+        "Hora_salida": "12:09",
+        "Observacion": ""
     }
 ]
