@@ -27070,5 +27070,17 @@
         "Hora_ingreso": "16:18",
         "Hora_salida": "18:49",
         "Observacion": ""
+    },
+    {
+        "Fecha": "27/03/2022",
+        "Visitante": "DAVILA ATANACIO PASION NEOMIAS",
+        "Documento": "DNI 25700579",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:14",
+        "Hora_salida": "09:57",
+        "Observacion": ""
     }
 ]
