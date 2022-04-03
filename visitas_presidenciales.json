@@ -27106,5 +27106,17 @@
         "Hora_ingreso": "12:50",
         "Hora_salida": "13:48",
         "Observacion": ""
+    },
+    {
+        "Fecha": "03/04/2022",
+        "Visitante": "ALVARADO LOPEZ GEINER",
+        "Documento": "DNI 41725953",
+        "Entidad": "MINISTERIO DE VIVIENDA",
+        "Motivo": "OTROS: ACTIVIDAD DE ENTREGA DE PATRULLEROS Y MOTOS LINEALES",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "06:53",
+        "Hora_salida": "07:31",
+        "Observacion": ""
     }
 ]
