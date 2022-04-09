@@ -27562,5 +27562,17 @@
         "Hora_ingreso": "13:52",
         "Hora_salida": "15:19",
         "Observacion": ""
+    },
+    {
+        "Fecha": "09/04/2022",
+        "Visitante": "CHAVARRY ESTRADA ALFONSO GILBERTO",
+        "Documento": "DNI 26686623",
+        "Entidad": "MINISTERIO DEL INTERIOR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "15:04",
+        "Hora_salida": "15:19",
+        "Observacion": ""
     }
 ]
