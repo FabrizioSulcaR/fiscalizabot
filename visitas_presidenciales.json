@@ -27586,5 +27586,77 @@
         "Hora_ingreso": "15:49",
         "Hora_salida": "16:01",
         "Observacion": ""
+    },
+    {
+        "Fecha": "09/04/2022",
+        "Visitante": "BUENO Y TAFUR EVARISTO",
+        "Documento": "DNI 22424500",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "15:34",
+        "Hora_salida": "17:50",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "09/04/2022",
+        "Visitante": "SUAREZ TOLEDO HERNAN",
+        "Documento": "DNI 04828413",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:20",
+        "Hora_salida": "17:50",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "09/04/2022",
+        "Visitante": "SANCHEZ ORBEZO TEOFILO",
+        "Documento": "DNI 22660687",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:20",
+        "Hora_salida": "17:49",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "09/04/2022",
+        "Visitante": "MARTEL SOTO RODOLFO",
+        "Documento": "DNI 22527824",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:20",
+        "Hora_salida": "17:49",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "09/04/2022",
+        "Visitante": "ESPINOZA ANANCOSI JORGE WILFREDO",
+        "Documento": "DNI 04079335",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:20",
+        "Hora_salida": "17:51",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "09/04/2022",
+        "Visitante": "SPELUCIN ALIAGA JORGE RAMON",
+        "Documento": "DNI 26952075",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:12",
+        "Hora_salida": "17:51",
+        "Observacion": ""
     }
 ]
