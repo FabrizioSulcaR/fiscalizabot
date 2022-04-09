@@ -27502,5 +27502,41 @@
         "Hora_ingreso": "09:08",
         "Hora_salida": "11:19",
         "Observacion": ""
+    },
+    {
+        "Fecha": "09/04/2022",
+        "Visitante": "SPELUCIN ALIAGA JORGE RAMON",
+        "Documento": "DNI 26952075",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:09",
+        "Hora_salida": "11:06",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "09/04/2022",
+        "Visitante": "GUERRA OLORTEGUI KEVIN",
+        "Documento": "DNI 48235581",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:09",
+        "Hora_salida": "11:06",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "09/04/2022",
+        "Visitante": "BUSTAMANTE CORONADO NICOLAS",
+        "Documento": "DNI 07294793",
+        "Entidad": "MINISTERIO DE TRANSPORTES Y COMUNICACIONES",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:09",
+        "Hora_salida": "11:07",
+        "Observacion": ""
     }
 ]
