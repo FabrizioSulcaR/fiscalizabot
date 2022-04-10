@@ -27682,5 +27682,29 @@
         "Hora_ingreso": "09:56",
         "Hora_salida": "10:32",
         "Observacion": ""
+    },
+    {
+        "Fecha": "10/04/2022",
+        "Visitante": "VERGARA MENDOZA ELVIS HERNAN",
+        "Documento": "DNI 42843414",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:56",
+        "Hora_salida": "15:49",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "10/04/2022",
+        "Visitante": "ABAD CABRERA JUAN JOSE",
+        "Documento": "DNI 08657907",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:56",
+        "Hora_salida": "15:49",
+        "Observacion": ""
     }
 ]
