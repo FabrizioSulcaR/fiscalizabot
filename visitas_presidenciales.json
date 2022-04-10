@@ -27658,5 +27658,29 @@
         "Hora_ingreso": "17:12",
         "Hora_salida": "17:51",
         "Observacion": ""
+    },
+    {
+        "Fecha": "10/04/2022",
+        "Visitante": "VALER PINTO HECTOR",
+        "Documento": "DNI 25567150",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:46",
+        "Hora_salida": "10:20",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "10/04/2022",
+        "Visitante": "YLDEFONSO NARRO ANGEL FERNANDO",
+        "Documento": "DNI 32905782",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:56",
+        "Hora_salida": "10:32",
+        "Observacion": ""
     }
 ]
