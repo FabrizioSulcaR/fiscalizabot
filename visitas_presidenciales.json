@@ -27718,5 +27718,41 @@
         "Hora_ingreso": "09:17",
         "Hora_salida": "11:06",
         "Observacion": ""
+    },
+    {
+        "Fecha": "14/04/2022",
+        "Visitante": "MONTALVAN CAMPAÑA JIMMY ORLANDO",
+        "Documento": "DNI 41352606",
+        "Entidad": "MUNICIPALIDAD DEL ALTO - TALARA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "10:15",
+        "Hora_salida": "12:26",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "14/04/2022",
+        "Visitante": "CHAHUAYLLA MALDONADO GUIDO",
+        "Documento": "DNI 31024749",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "11:00",
+        "Hora_salida": "12:36",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "14/04/2022",
+        "Visitante": "CHERO MEDINA FELIX INOCENTE",
+        "Documento": "DNI 16749268",
+        "Entidad": "MINISTERIO DE JUSTICIA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "11:09",
+        "Hora_salida": "12:22",
+        "Observacion": ""
     }
 ]
