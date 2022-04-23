@@ -27790,5 +27790,29 @@
         "Hora_ingreso": "11:01",
         "Hora_salida": "13:31",
         "Observacion": ""
+    },
+    {
+        "Fecha": "23/04/2022",
+        "Visitante": "FLORES RAMIREZ ALEX RANDU",
+        "Documento": "DNI 46517805",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:50",
+        "Hora_salida": "10:30",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "23/04/2022",
+        "Visitante": "ALVARADO LOPEZ GEINER",
+        "Documento": "DNI 41725953",
+        "Entidad": "MINISTERIO DE VIVIENDA CONSTRUCCION Y SANEAMIENTO",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "10:47",
+        "Hora_salida": "11:28",
+        "Observacion": ""
     }
 ]
