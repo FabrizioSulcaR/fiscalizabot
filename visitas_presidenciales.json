@@ -27850,5 +27850,41 @@
         "Hora_ingreso": "14:47",
         "Hora_salida": "15:11",
         "Observacion": ""
+    },
+    {
+        "Fecha": "23/04/2022",
+        "Visitante": "VASQUEZ PANDURO ABEL",
+        "Documento": "DNI 23013916",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "14:56",
+        "Hora_salida": "17:01",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "23/04/2022",
+        "Visitante": "UYEN ALVAREZ SANDRO YURI",
+        "Documento": "DNI 29269357",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "14:56",
+        "Hora_salida": "17:01",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "23/04/2022",
+        "Visitante": "NAJAR KOKALLY FELIX ARTURO",
+        "Documento": "DNI 00080448",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "14:56",
+        "Hora_salida": "17:01",
+        "Observacion": ""
     }
 ]
