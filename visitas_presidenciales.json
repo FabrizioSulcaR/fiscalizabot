@@ -27814,5 +27814,41 @@
         "Hora_ingreso": "10:47",
         "Hora_salida": "11:28",
         "Observacion": ""
+    },
+    {
+        "Fecha": "23/04/2022",
+        "Visitante": "ZEA CHOQUECHAMBI OSCAR",
+        "Documento": "DNI 01327194",
+        "Entidad": "MINISTERIO DE AGRICULTURA Y RIEGO",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "13:40",
+        "Hora_salida": "14:44",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "23/04/2022",
+        "Visitante": "MAMANI CONDORI GROVER",
+        "Documento": "DNI 02030895",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "14:47",
+        "Hora_salida": "15:11",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "23/04/2022",
+        "Visitante": "CABRERA MEGO VICTOR",
+        "Documento": "DNI 27382444",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "14:47",
+        "Hora_salida": "15:11",
+        "Observacion": ""
     }
 ]
