@@ -27934,5 +27934,17 @@
         "Hora_ingreso": "13:56",
         "Hora_salida": "15:51",
         "Observacion": ""
+    },
+    {
+        "Fecha": "30/04/2022",
+        "Visitante": "MARTICORENA MENDOZA JORGE ALFONSO",
+        "Documento": "DNI 21456255",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:02",
+        "Hora_salida": "16:47",
+        "Observacion": ""
     }
 ]
