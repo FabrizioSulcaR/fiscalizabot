@@ -27886,5 +27886,17 @@
         "Hora_ingreso": "14:56",
         "Hora_salida": "17:01",
         "Observacion": ""
+    },
+    {
+        "Fecha": "30/04/2022",
+        "Visitante": "SALAS ZEGARRA ALEJANDRO ANTONIO",
+        "Documento": "DNI 10762763",
+        "Entidad": "MINISTERIO DE CULTURA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:55",
+        "Hora_salida": "14:16",
+        "Observacion": ""
     }
 ]
