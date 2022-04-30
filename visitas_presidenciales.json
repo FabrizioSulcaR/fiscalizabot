@@ -27898,5 +27898,41 @@
         "Hora_ingreso": "09:55",
         "Hora_salida": "14:16",
         "Observacion": ""
+    },
+    {
+        "Fecha": "30/04/2022",
+        "Visitante": "HUAMANI CURIHUAMANI ELISEO",
+        "Documento": "DNI 31038977",
+        "Entidad": "PREFECTURA REGIONAL DE APURIMAC",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "13:55",
+        "Hora_salida": "15:51",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "30/04/2022",
+        "Visitante": "GUTIERREZ TICONA PAUL SILVIO",
+        "Documento": "DNI 31027035",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "13:55",
+        "Hora_salida": "15:51",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "30/04/2022",
+        "Visitante": "ROBLES QUISPE MODESTO",
+        "Documento": "DNI 31031498",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "13:56",
+        "Hora_salida": "15:51",
+        "Observacion": ""
     }
 ]
