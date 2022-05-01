@@ -27946,5 +27946,29 @@
         "Hora_ingreso": "16:02",
         "Hora_salida": "16:47",
         "Observacion": ""
+    },
+    {
+        "Fecha": "01/05/2022",
+        "Visitante": "ROLDAN ARGANDOÑA DELFOR OMAR",
+        "Documento": "DNI 10177161",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "07:27",
+        "Hora_salida": "08:58",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "01/05/2022",
+        "Visitante": "BARRANTES MENDOZA WILSON FREDY",
+        "Documento": "DNI 43267304",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "07:27",
+        "Hora_salida": "08:58",
+        "Observacion": ""
     }
 ]
