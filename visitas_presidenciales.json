@@ -27970,5 +27970,17 @@
         "Hora_ingreso": "07:27",
         "Hora_salida": "08:58",
         "Observacion": ""
+    },
+    {
+        "Fecha": "01/05/2022",
+        "Visitante": "BUSTAMANTE CORONADO NICOLAS",
+        "Documento": "DNI 07294793",
+        "Entidad": "MINISTERIO DE TRANSPORTES Y COMUNICACIONES",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:58",
+        "Hora_salida": "10:20",
+        "Observacion": ""
     }
 ]
