@@ -28090,5 +28090,53 @@
         "Hora_ingreso": "12:29",
         "Hora_salida": "14:48",
         "Observacion": ""
+    },
+    {
+        "Fecha": "02/05/2022",
+        "Visitante": "CAHUAYA CHAMBILLA DOMINGO",
+        "Documento": "DNI 30503753",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:27",
+        "Hora_salida": "14:49",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "02/05/2022",
+        "Visitante": "HERRERA BAZAN EULER",
+        "Documento": "DNI 43313600",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:29",
+        "Hora_salida": "14:49",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "02/05/2022",
+        "Visitante": "VARGAS DIAZ CARLOS",
+        "Documento": "DNI 27426018",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:30",
+        "Hora_salida": "14:48",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "02/05/2022",
+        "Visitante": "CAMPOS MANOSALVA SERAPIO",
+        "Documento": "DNI 27577730",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:33",
+        "Hora_salida": "14:49",
+        "Observacion": ""
     }
 ]
