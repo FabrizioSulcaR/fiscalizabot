@@ -28138,5 +28138,17 @@
         "Hora_ingreso": "12:33",
         "Hora_salida": "14:49",
         "Observacion": ""
+    },
+    {
+        "Fecha": "02/05/2022",
+        "Visitante": "BALCAZAR ZELADA JOSE MARIA",
+        "Documento": "DNI 16642438",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "14:46",
+        "Hora_salida": "17:16",
+        "Observacion": ""
     }
 ]
