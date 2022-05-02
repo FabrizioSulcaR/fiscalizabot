@@ -28150,5 +28150,17 @@
         "Hora_ingreso": "14:46",
         "Hora_salida": "17:16",
         "Observacion": ""
+    },
+    {
+        "Fecha": "02/05/2022",
+        "Visitante": "SAN ROMAN CACERES MAXIMO",
+        "Documento": "DNI 10003781",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:55",
+        "Hora_salida": "18:02",
+        "Observacion": ""
     }
 ]
