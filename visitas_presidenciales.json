@@ -28210,5 +28210,17 @@
         "Hora_ingreso": "09:28",
         "Hora_salida": "11:47",
         "Observacion": ""
+    },
+    {
+        "Fecha": "07/05/2022",
+        "Visitante": "CESPEDES CORREA MANUEL ARTURO",
+        "Documento": "DNI 26701769",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "11:47",
+        "Hora_salida": "12:47",
+        "Observacion": ""
     }
 ]
