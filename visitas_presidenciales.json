@@ -28186,5 +28186,29 @@
         "Hora_ingreso": "08:30",
         "Hora_salida": "09:29",
         "Observacion": ""
+    },
+    {
+        "Fecha": "07/05/2022",
+        "Visitante": "SAN ROMAN CACERES MAXIMO",
+        "Documento": "DNI 10003781",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:28",
+        "Hora_salida": "11:47",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "07/05/2022",
+        "Visitante": "CHOQUENAIRA BOMBILLA VALENTIN",
+        "Documento": "DNI 23877833",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: REUNION",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:28",
+        "Hora_salida": "11:47",
+        "Observacion": ""
     }
 ]
