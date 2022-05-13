@@ -28222,5 +28222,17 @@
         "Hora_ingreso": "11:47",
         "Hora_salida": "12:47",
         "Observacion": ""
+    },
+    {
+        "Fecha": "13/05/2022",
+        "Visitante": "CASSANOVA CUBAS JORGE FERNANDO",
+        "Documento": "DNI 27281624",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:07",
+        "Hora_salida": "09:02",
+        "Observacion": ""
     }
 ]
