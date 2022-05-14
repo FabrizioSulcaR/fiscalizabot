@@ -28246,5 +28246,29 @@
         "Hora_ingreso": "09:50",
         "Hora_salida": "11:25",
         "Observacion": ""
+    },
+    {
+        "Fecha": "14/05/2022",
+        "Visitante": "TOVALINO CONDOR MARITZA",
+        "Documento": "DNI 40135376",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "10:10",
+        "Hora_salida": "11:58",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "14/05/2022",
+        "Visitante": "MATEO BLAS BRANGIL JUAN",
+        "Documento": "DNI 21287220",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "10:10",
+        "Hora_salida": "11:59",
+        "Observacion": ""
     }
 ]
