@@ -28294,5 +28294,17 @@
         "Hora_ingreso": "11:43",
         "Hora_salida": "12:44",
         "Observacion": ""
+    },
+    {
+        "Fecha": "14/05/2022",
+        "Visitante": "PISCOYA QUEVEDO JULIO CESAR ALEXANDER",
+        "Documento": "DNI 41610778",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "14:08",
+        "Hora_salida": "14:58",
+        "Observacion": ""
     }
 ]
