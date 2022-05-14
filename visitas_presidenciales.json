@@ -28306,5 +28306,41 @@
         "Hora_ingreso": "14:08",
         "Hora_salida": "14:58",
         "Observacion": ""
+    },
+    {
+        "Fecha": "14/05/2022",
+        "Visitante": "TACURI VALDIVIA GERMAN ADOLFO",
+        "Documento": "DNI 31031443",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "15:11",
+        "Hora_salida": "16:42",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "14/05/2022",
+        "Visitante": "RUA CARBAJAL CARLOS ALBERTO",
+        "Documento": "DNI 28527049",
+        "Entidad": "GOBIERNO REGIONAL DE AYACUCHO",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "15:11",
+        "Hora_salida": "16:42",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "14/05/2022",
+        "Visitante": "MANYARI VELAZCO RENZO VITTO FABRIZIO",
+        "Documento": "DNI 46002996",
+        "Entidad": "COMITE OLIMPICO PERUANO",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "15:11",
+        "Hora_salida": "16:42",
+        "Observacion": ""
     }
 ]
