@@ -28342,5 +28342,41 @@
         "Hora_ingreso": "15:11",
         "Hora_salida": "16:42",
         "Observacion": ""
+    },
+    {
+        "Fecha": "14/05/2022",
+        "Visitante": "SHAHUANO ZEVALLOS DENIS",
+        "Documento": "DNI 00122532",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:25",
+        "Hora_salida": "17:14",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "14/05/2022",
+        "Visitante": "PAREDES CASTRO FRANCIS JHASMINA",
+        "Documento": "DNI 40858548",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:25",
+        "Hora_salida": "17:13",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "14/05/2022",
+        "Visitante": "VALVERDE NEYRA MARCELO IGNACIO",
+        "Documento": "DNI 43396962",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:26",
+        "Hora_salida": "17:13",
+        "Observacion": ""
     }
 ]
