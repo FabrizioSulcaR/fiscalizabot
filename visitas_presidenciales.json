@@ -28234,5 +28234,17 @@
         "Hora_ingreso": "08:07",
         "Hora_salida": "09:02",
         "Observacion": ""
+    },
+    {
+        "Fecha": "14/05/2022",
+        "Visitante": "FEIJO FEIJO JOSE LUIS",
+        "Documento": "DNI 41308200",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:50",
+        "Hora_salida": "11:25",
+        "Observacion": ""
     }
 ]
