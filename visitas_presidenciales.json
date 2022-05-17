@@ -28378,5 +28378,17 @@
         "Hora_ingreso": "16:26",
         "Hora_salida": "17:13",
         "Observacion": ""
+    },
+    {
+        "Fecha": "17/05/2022",
+        "Visitante": "TRUJILLO MONCALEANO  MARIA ALEJANDRA LILIANA",
+        "Documento": "Pasaporte 51988010",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "05:34",
+        "Hora_salida": "06:08",
+        "Observacion": ""
     }
 ]
