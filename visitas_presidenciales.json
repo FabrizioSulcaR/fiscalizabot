@@ -28414,5 +28414,17 @@
         "Hora_ingreso": "08:51",
         "Hora_salida": "09:42",
         "Observacion": ""
+    },
+    {
+        "Fecha": "21/05/2022",
+        "Visitante": "TONG HURTADO TEODORO FEDERICO",
+        "Documento": "DNI 07973345",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:13",
+        "Hora_salida": "10:03",
+        "Observacion": ""
     }
 ]
