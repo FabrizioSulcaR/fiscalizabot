@@ -28390,5 +28390,29 @@
         "Hora_ingreso": "05:34",
         "Hora_salida": "06:08",
         "Observacion": ""
+    },
+    {
+        "Fecha": "21/05/2022",
+        "Visitante": "RUIZ CARDENAS JOSE LUIS",
+        "Documento": "DNI 18133722",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:48",
+        "Hora_salida": "09:43",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "21/05/2022",
+        "Visitante": "PINEDO SEDAMANO NELSON",
+        "Documento": "DNI 05618270",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:51",
+        "Hora_salida": "09:42",
+        "Observacion": ""
     }
 ]
