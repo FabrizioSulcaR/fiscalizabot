@@ -28426,5 +28426,17 @@
         "Hora_ingreso": "09:13",
         "Hora_salida": "10:03",
         "Observacion": ""
+    },
+    {
+        "Fecha": "21/05/2022",
+        "Visitante": "PALACIOS PEREZ CARLOS SABINO",
+        "Documento": "DNI 06466433",
+        "Entidad": "MINISTERIO DE ENERGIA Y MINAS",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "10:41",
+        "Hora_salida": "11:12",
+        "Observacion": ""
     }
 ]
