@@ -28450,5 +28450,29 @@
         "Hora_ingreso": "13:44",
         "Hora_salida": "15:16",
         "Observacion": ""
+    },
+    {
+        "Fecha": "26/05/2022",
+        "Visitante": "ROMERO RUEDA MERY CAMILA",
+        "Documento": "DNI 71269611",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "00:24",
+        "Hora_salida": "00:34",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "26/05/2022",
+        "Visitante": "ROMERO LLOCLLA MARCO ANTONIO",
+        "Documento": "DNI 08122728",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "00:24",
+        "Hora_salida": "00:33",
+        "Observacion": ""
     }
 ]
