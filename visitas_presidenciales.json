@@ -28486,5 +28486,17 @@
         "Hora_ingreso": "10:53",
         "Hora_salida": "11:59",
         "Observacion": ""
+    },
+    {
+        "Fecha": "28/05/2022",
+        "Visitante": "MATOS AIRA LOLI",
+        "Documento": "DNI 22975255",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:12",
+        "Hora_salida": "12:44",
+        "Observacion": ""
     }
 ]
