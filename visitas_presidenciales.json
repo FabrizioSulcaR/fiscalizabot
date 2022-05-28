@@ -28498,5 +28498,41 @@
         "Hora_ingreso": "12:12",
         "Hora_salida": "12:44",
         "Observacion": ""
+    },
+    {
+        "Fecha": "28/05/2022",
+        "Visitante": "VASQUEZ VELA LUCINDA",
+        "Documento": "DNI 01088231",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:50",
+        "Hora_salida": "18:26",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/05/2022",
+        "Visitante": "VILLACORTA VASQUEZ MARTI FRANS",
+        "Documento": "DNI 44956677",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:51",
+        "Hora_salida": "18:26",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "28/05/2022",
+        "Visitante": "VILLACORTA ARCE LUIS ALBERTO",
+        "Documento": "DNI 00900872",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:52",
+        "Hora_salida": "18:26",
+        "Observacion": ""
     }
 ]
