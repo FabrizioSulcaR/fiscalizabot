@@ -28534,5 +28534,29 @@
         "Hora_ingreso": "17:52",
         "Hora_salida": "18:26",
         "Observacion": ""
+    },
+    {
+        "Fecha": "29/05/2022",
+        "Visitante": "LIRA LOAYZA JUAN RAMON",
+        "Documento": "DNI 00486625",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:20",
+        "Hora_salida": "09:13",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/05/2022",
+        "Visitante": "CHAVEZ CHINO BETSSY BETZABET",
+        "Documento": "DNI 45746592",
+        "Entidad": "MINISTERIO DE TRABAJO",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:21",
+        "Hora_salida": "09:14",
+        "Observacion": ""
     }
 ]
