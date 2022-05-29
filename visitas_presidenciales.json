@@ -28558,5 +28558,29 @@
         "Hora_ingreso": "08:21",
         "Hora_salida": "09:14",
         "Observacion": ""
+    },
+    {
+        "Fecha": "29/05/2022",
+        "Visitante": "RIVERA SANCHEZ ROBERTO CELSO",
+        "Documento": "DNI 41747218",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "10:16",
+        "Hora_salida": "10:46",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/05/2022",
+        "Visitante": "REQUEJO LONGINOTE HECTOR ORLANDO",
+        "Documento": "DNI 17445681",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "10:16",
+        "Hora_salida": "10:45",
+        "Observacion": ""
     }
 ]
