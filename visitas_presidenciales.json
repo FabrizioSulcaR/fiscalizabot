@@ -28690,5 +28690,17 @@
         "Hora_ingreso": "17:59",
         "Hora_salida": "18:25",
         "Observacion": ""
+    },
+    {
+        "Fecha": "29/05/2022",
+        "Visitante": "BARRANZUELA QUIROGA JUAN MAURO",
+        "Documento": "DNI 02690763",
+        "Entidad": "MINISTERIO DE TRANSPORTES Y COMUNICACIONES",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:59",
+        "Hora_salida": "18:38",
+        "Observacion": ""
     }
 ]
