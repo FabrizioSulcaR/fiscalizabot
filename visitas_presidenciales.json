@@ -28642,5 +28642,53 @@
         "Hora_ingreso": "10:42",
         "Hora_salida": "11:24",
         "Observacion": ""
+    },
+    {
+        "Fecha": "29/05/2022",
+        "Visitante": "PALOMINO MANCHEGO JOSE FELIX",
+        "Documento": "DNI 06756703",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:53",
+        "Hora_salida": "18:28",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/05/2022",
+        "Visitante": "DIAZ HUANCA CECILIA MILAGROS",
+        "Documento": "DNI 43654421",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:54",
+        "Hora_salida": "18:28",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/05/2022",
+        "Visitante": "PACHAS PALACIOS EDUARDO REMI",
+        "Documento": "DNI 09454319",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:20",
+        "Hora_salida": "18:29",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "29/05/2022",
+        "Visitante": "ESPINOZA RAMOS BENJI GREGORY",
+        "Documento": "DNI 45815955",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:59",
+        "Hora_salida": "18:25",
+        "Observacion": ""
     }
 ]
