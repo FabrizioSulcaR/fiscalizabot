@@ -28702,5 +28702,29 @@
         "Hora_ingreso": "16:59",
         "Hora_salida": "18:38",
         "Observacion": ""
+    },
+    {
+        "Fecha": "02/06/2022",
+        "Visitante": "VASQUEZ VELA LUCINDA",
+        "Documento": "DNI 01088231",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "06:55",
+        "Hora_salida": "07:56",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "02/06/2022",
+        "Visitante": "SERNA ROMAN ROSENDO LEONCIO",
+        "Documento": "DNI 22491596",
+        "Entidad": "MINISTERIO DE EDUCACION",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "07:24",
+        "Hora_salida": "07:56",
+        "Observacion": ""
     }
 ]
