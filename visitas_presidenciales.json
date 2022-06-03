@@ -28726,5 +28726,41 @@
         "Hora_ingreso": "07:24",
         "Hora_salida": "07:56",
         "Observacion": ""
+    },
+    {
+        "Fecha": "03/06/2022",
+        "Visitante": "YDROGO BUSTAMANTE MARCO WILLIAM",
+        "Documento": "DNI 27416097",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "00:15",
+        "Hora_salida": "00:26",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "03/06/2022",
+        "Visitante": "BUSTAMANTE VARGAS YANIRA ARMANDINA",
+        "Documento": "DNI 44073228",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "00:15",
+        "Hora_salida": "00:25",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "03/06/2022",
+        "Visitante": "BARBOZA FUSTAMANTE DARÍO",
+        "Documento": "DNI 27422611",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "00:15",
+        "Hora_salida": "00:26",
+        "Observacion": ""
     }
 ]
