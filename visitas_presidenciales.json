@@ -28774,5 +28774,41 @@
         "Hora_ingreso": "09:21",
         "Hora_salida": "10:00",
         "Observacion": ""
+    },
+    {
+        "Fecha": "04/06/2022",
+        "Visitante": "TOVALINO CONDOR MARITZA",
+        "Documento": "DNI 40135376",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:59",
+        "Hora_salida": "10:31",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "04/06/2022",
+        "Visitante": "MATEO BLAS BRANGIL JUAN",
+        "Documento": "DNI 21287220",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:01",
+        "Hora_salida": "10:31",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "04/06/2022",
+        "Visitante": "FIGUEROA CORDOVA ARTURO",
+        "Documento": "DNI 40764654",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:01",
+        "Hora_salida": "10:30",
+        "Observacion": ""
     }
 ]
