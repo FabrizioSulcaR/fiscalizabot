@@ -28762,5 +28762,17 @@
         "Hora_ingreso": "00:15",
         "Hora_salida": "00:26",
         "Observacion": ""
+    },
+    {
+        "Fecha": "04/06/2022",
+        "Visitante": "UGARTE MAMANI JHAKELINE KATY",
+        "Documento": "DNI 24711696",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:21",
+        "Hora_salida": "10:00",
+        "Observacion": ""
     }
 ]
