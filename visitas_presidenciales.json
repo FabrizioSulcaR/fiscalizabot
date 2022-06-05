@@ -28846,5 +28846,113 @@
         "Hora_ingreso": "12:46",
         "Hora_salida": "13:52",
         "Observacion": ""
+    },
+    {
+        "Fecha": "05/06/2022",
+        "Visitante": "SOTO GOMEZ LINCOLN",
+        "Documento": "DNI 22465080",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:27",
+        "Hora_salida": "14:16",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "05/06/2022",
+        "Visitante": "DELGADO ALCANTARA MIREILA YANETH",
+        "Documento": "DNI 46297586",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:27",
+        "Hora_salida": "12:49",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "05/06/2022",
+        "Visitante": "LLANCARI CHACALIAZA CARLOS FELIPE",
+        "Documento": "DNI 43541906",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:31",
+        "Hora_salida": "14:16",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "05/06/2022",
+        "Visitante": "HUAMANI LOPEZ JAME YALINA",
+        "Documento": "DNI 10074288",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:31",
+        "Hora_salida": "14:19",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "05/06/2022",
+        "Visitante": "TORRES FLORES YEREMI ANTONIO",
+        "Documento": "DNI 42858835",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:32",
+        "Hora_salida": "14:17",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "05/06/2022",
+        "Visitante": "QUISPE VENTURA RUBEN",
+        "Documento": "DNI 28294396",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:35",
+        "Hora_salida": "14:16",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "05/06/2022",
+        "Visitante": "RUIZ CONTRERAS PABLO BENITO",
+        "Documento": "DNI 18090494",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:37",
+        "Hora_salida": "14:18",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "05/06/2022",
+        "Visitante": "MATEO BLAS BRANGIL JUAN",
+        "Documento": "DNI 21287220",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:42",
+        "Hora_salida": "14:18",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "05/06/2022",
+        "Visitante": "CHUQUILIN HERNANDEZ EDWAR LENIN",
+        "Documento": "DNI 43147154",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:46",
+        "Hora_salida": "14:19",
+        "Observacion": ""
     }
 ]
