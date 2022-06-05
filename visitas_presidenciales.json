@@ -28810,5 +28810,17 @@
         "Hora_ingreso": "09:01",
         "Hora_salida": "10:30",
         "Observacion": ""
+    },
+    {
+        "Fecha": "05/06/2022",
+        "Visitante": "ARCE ALVARADO JAVIER FERNANDO",
+        "Documento": "DNI 08747610",
+        "Entidad": "MINISTERIO DE AGRICULTURA Y RIEGO",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "10:13",
+        "Hora_salida": "10:42",
+        "Observacion": ""
     }
 ]
