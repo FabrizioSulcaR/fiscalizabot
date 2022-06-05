@@ -28822,5 +28822,29 @@
         "Hora_ingreso": "10:13",
         "Hora_salida": "10:42",
         "Observacion": ""
+    },
+    {
+        "Fecha": "05/06/2022",
+        "Visitante": "HUAMANI CURIHUAMANI ELISEO",
+        "Documento": "DNI 31038977",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:33",
+        "Hora_salida": "13:52",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "05/06/2022",
+        "Visitante": "ENCINAS COPA JACQUELINE MARISOL",
+        "Documento": "DNI 00486529",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:46",
+        "Hora_salida": "13:52",
+        "Observacion": ""
     }
 ]
