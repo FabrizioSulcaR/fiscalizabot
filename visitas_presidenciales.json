@@ -29074,5 +29074,17 @@
         "Hora_ingreso": "16:55",
         "Hora_salida": "18:20",
         "Observacion": ""
+    },
+    {
+        "Fecha": "06/06/2022",
+        "Visitante": "ALENCASTRE CALDERON ANDRES RIMSKY",
+        "Documento": "DNI 06629268",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:27",
+        "Hora_salida": "09:20",
+        "Observacion": ""
     }
 ]
