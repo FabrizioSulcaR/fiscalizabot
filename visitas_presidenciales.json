@@ -29098,5 +29098,17 @@
         "Hora_ingreso": "15:06",
         "Hora_salida": "16:38",
         "Observacion": ""
+    },
+    {
+        "Fecha": "12/06/2022",
+        "Visitante": "CHAVEZ CHINO BETSSY BETZABET",
+        "Documento": "DNI 45746592",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "00:01",
+        "Hora_salida": "00:49",
+        "Observacion": ""
     }
 ]
