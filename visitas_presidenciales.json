@@ -29206,5 +29206,17 @@
         "Hora_ingreso": "16:50",
         "Hora_salida": "17:48",
         "Observacion": ""
+    },
+    {
+        "Fecha": "13/06/2022",
+        "Visitante": "BARDALES SALDAÑA CESAR FRANCISCO",
+        "Documento": "DNI 40782647",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:50",
+        "Hora_salida": "17:49",
+        "Observacion": ""
     }
 ]
