@@ -29134,5 +29134,41 @@
         "Hora_ingreso": "08:31",
         "Hora_salida": "09:28",
         "Observacion": ""
+    },
+    {
+        "Fecha": "13/06/2022",
+        "Visitante": "SALAS ZEGARRA ALEJANDRO ANTONIO",
+        "Documento": "DNI 10762763",
+        "Entidad": "MINISTERIO DE CULTURA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "07:50",
+        "Hora_salida": "09:26",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "13/06/2022",
+        "Visitante": "CHERO MEDINA FELIX INOCENTE",
+        "Documento": "DNI 16749268",
+        "Entidad": "MINISTERIO DE JUSTICIA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "07:50",
+        "Hora_salida": "09:26",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "13/06/2022",
+        "Visitante": "MONTOYA ZAVALETA MODESTO EDILBERTO",
+        "Documento": "DNI 06617805",
+        "Entidad": "MINISTERIO DE AMBIENTE",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:40",
+        "Hora_salida": "10:05",
+        "Observacion": ""
     }
 ]
