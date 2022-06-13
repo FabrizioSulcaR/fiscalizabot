@@ -29182,5 +29182,17 @@
         "Hora_ingreso": "14:21",
         "Hora_salida": "16:01",
         "Observacion": ""
+    },
+    {
+        "Fecha": "13/06/2022",
+        "Visitante": "ALENCASTRE CALDERON ANDRES RIMSKY",
+        "Documento": "DNI 06629268",
+        "Entidad": "MINISTERIO DE DESARROLLO AGRARIO Y RIEGO",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "16:50",
+        "Hora_salida": "17:19",
+        "Observacion": ""
     }
 ]
