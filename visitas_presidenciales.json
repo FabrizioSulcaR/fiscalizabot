@@ -29110,5 +29110,29 @@
         "Hora_ingreso": "00:01",
         "Hora_salida": "00:49",
         "Observacion": ""
+    },
+    {
+        "Fecha": "13/06/2022",
+        "Visitante": "PACHAS PALACIOS EDUARDO REMI",
+        "Documento": "DNI 09454319",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:11",
+        "Hora_salida": "09:28",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "13/06/2022",
+        "Visitante": "ESPINOZA RAMOS BENJI GREGORY",
+        "Documento": "DNI 45815955",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:31",
+        "Hora_salida": "09:28",
+        "Observacion": ""
     }
 ]
