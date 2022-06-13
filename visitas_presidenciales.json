@@ -29218,5 +29218,17 @@
         "Hora_ingreso": "16:50",
         "Hora_salida": "17:49",
         "Observacion": ""
+    },
+    {
+        "Fecha": "13/06/2022",
+        "Visitante": "ALVARADO LOPEZ GEINER",
+        "Documento": "DNI 41725953",
+        "Entidad": "MINISTERIO DE VIVIENDA CONSTRUCCIÓN Y SANEAMIENTO",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:05",
+        "Hora_salida": "12:32",
+        "Observacion": ""
     }
 ]
