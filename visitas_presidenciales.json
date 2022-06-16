@@ -29242,5 +29242,17 @@
         "Hora_ingreso": "07:52",
         "Hora_salida": "09:16",
         "Observacion": ""
+    },
+    {
+        "Fecha": "16/06/2022",
+        "Visitante": "CABRERA MEGO VICTOR",
+        "Documento": "DNI 27382444",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "07:31",
+        "Hora_salida": "09:56",
+        "Observacion": ""
     }
 ]
