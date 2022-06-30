@@ -29266,5 +29266,41 @@
         "Hora_ingreso": "17:09",
         "Hora_salida": "18:35",
         "Observacion": ""
+    },
+    {
+        "Fecha": "30/06/2022",
+        "Visitante": "TORRES VASQUEZ VICTOR HUGO",
+        "Documento": "DNI 32108083",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "00:01",
+        "Hora_salida": "00:25",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "30/06/2022",
+        "Visitante": "GOMEZ OLANO JULIO CESAR",
+        "Documento": "DNI 10372809",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "00:01",
+        "Hora_salida": "00:25",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "30/06/2022",
+        "Visitante": "CABRERA ALCALDE GONZALO",
+        "Documento": "DNI 27436500",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "00:01",
+        "Hora_salida": "00:26",
+        "Observacion": ""
     }
 ]
