@@ -29338,5 +29338,17 @@
         "Hora_ingreso": "08:46",
         "Hora_salida": "09:20",
         "Observacion": ""
+    },
+    {
+        "Fecha": "02/07/2022",
+        "Visitante": "PORTALATINO AVALOS KELLY ROXANA",
+        "Documento": "DNI 42699423",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "10:34",
+        "Hora_salida": "11:35",
+        "Observacion": ""
     }
 ]
