@@ -29302,5 +29302,41 @@
         "Hora_ingreso": "00:01",
         "Hora_salida": "00:26",
         "Observacion": ""
+    },
+    {
+        "Fecha": "02/07/2022",
+        "Visitante": "PAREDES CASTRO FRANCIS JHASMINA",
+        "Documento": "DNI 40858548",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:46",
+        "Hora_salida": "09:20",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "02/07/2022",
+        "Visitante": "CARRASCO SANDOVAL ADOLFO",
+        "Documento": "DNI 09908412",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:46",
+        "Hora_salida": "09:21",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "02/07/2022",
+        "Visitante": "BARRIAL LUQUE VICTOR DEMITRE",
+        "Documento": "DNI 21545799",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "08:46",
+        "Hora_salida": "09:20",
+        "Observacion": ""
     }
 ]
