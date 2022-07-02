@@ -29350,5 +29350,17 @@
         "Hora_ingreso": "10:34",
         "Hora_salida": "11:35",
         "Observacion": ""
+    },
+    {
+        "Fecha": "02/07/2022",
+        "Visitante": "BORDA GONZALES CESAR AUGUSTO",
+        "Documento": "DNI 06599258",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "17:21",
+        "Hora_salida": "18:32",
+        "Observacion": ""
     }
 ]
