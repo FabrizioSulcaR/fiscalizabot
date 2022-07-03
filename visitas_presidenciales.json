@@ -29374,5 +29374,17 @@
         "Hora_ingreso": "11:36",
         "Hora_salida": "12:45",
         "Observacion": ""
+    },
+    {
+        "Fecha": "03/07/2022",
+        "Visitante": "HERRERA JARA ALESSANDRA GILDA",
+        "Documento": "DNI 10281240",
+        "Entidad": "MINISTERIO DE ENERGÍA Y MINAS",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "11:18",
+        "Hora_salida": "13:03",
+        "Observacion": ""
     }
 ]
