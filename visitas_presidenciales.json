@@ -29398,5 +29398,17 @@
         "Hora_ingreso": "15:40",
         "Hora_salida": "16:54",
         "Observacion": ""
+    },
+    {
+        "Fecha": "09/07/2022",
+        "Visitante": "GONZALEZ FERNANDEZ COSME MARIANO",
+        "Documento": "DNI 29656225",
+        "Entidad": "MINISTERIO DEL INTERIOR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "11:00",
+        "Hora_salida": "12:09",
+        "Observacion": ""
     }
 ]
