@@ -29410,5 +29410,29 @@
         "Hora_ingreso": "11:00",
         "Hora_salida": "12:09",
         "Observacion": ""
+    },
+    {
+        "Fecha": "10/07/2022",
+        "Visitante": "VASQUEZ DIAZ VICTOR",
+        "Documento": "DNI 27416509",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "00:00",
+        "Hora_salida": "00:08",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "10/07/2022",
+        "Visitante": "HERRERA REQUELME JOSÉ CRUZ",
+        "Documento": "DNI 47225462",
+        "Entidad": "particular",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "00:00",
+        "Hora_salida": "00:08",
+        "Observacion": ""
     }
 ]
