@@ -29434,5 +29434,17 @@
         "Hora_ingreso": "00:00",
         "Hora_salida": "00:08",
         "Observacion": ""
+    },
+    {
+        "Fecha": "10/07/2022",
+        "Visitante": "GRAHAM YAMAHUCHI OSCAR MIGUEL",
+        "Documento": "DNI 08640571",
+        "Entidad": "MINISTERIO DE ECONOMIA Y FINANZAS",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "12:06",
+        "Hora_salida": "13:04",
+        "Observacion": ""
     }
 ]
