@@ -29458,5 +29458,17 @@
         "Hora_ingreso": "12:28",
         "Hora_salida": "14:09",
         "Observacion": ""
+    },
+    {
+        "Fecha": "16/07/2022",
+        "Visitante": "CALDERON RODRIGUEZ VICTOR MANUEL",
+        "Documento": "DNI 80189618",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "18:31",
+        "Hora_salida": "18:54",
+        "Observacion": ""
     }
 ]
