@@ -29494,5 +29494,17 @@
         "Hora_ingreso": "00:01",
         "Hora_salida": "00:21",
         "Observacion": ""
+    },
+    {
+        "Fecha": "20/07/2022",
+        "Visitante": "COILA RAMIREZ MERY INES",
+        "Documento": "DNI 00443113",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "00:01",
+        "Hora_salida": "00:30",
+        "Observacion": ""
     }
 ]
