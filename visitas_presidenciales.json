@@ -29542,5 +29542,17 @@
         "Hora_ingreso": "14:46",
         "Hora_salida": "15:57",
         "Observacion": ""
+    },
+    {
+        "Fecha": "23/07/2022",
+        "Visitante": "PALOMINO MANCHEGO JOSE FELIX",
+        "Documento": "DNI 06756703",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "14:37",
+        "Hora_salida": "16:19",
+        "Observacion": ""
     }
 ]
