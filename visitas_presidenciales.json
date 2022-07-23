@@ -29518,5 +29518,17 @@
         "Hora_ingreso": "07:40",
         "Hora_salida": "08:22",
         "Observacion": ""
+    },
+    {
+        "Fecha": "23/07/2022",
+        "Visitante": "VASQUEZ FLORES MANUEL ISIDRO",
+        "Documento": "DNI 26954785",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "14:21",
+        "Hora_salida": "15:36",
+        "Observacion": ""
     }
 ]
