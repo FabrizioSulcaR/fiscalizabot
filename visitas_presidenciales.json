@@ -29530,5 +29530,17 @@
         "Hora_ingreso": "14:21",
         "Hora_salida": "15:36",
         "Observacion": ""
+    },
+    {
+        "Fecha": "23/07/2022",
+        "Visitante": "ARIAS BERROCAL ZAIRA PAULA",
+        "Documento": "DNI 47306100",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "14:46",
+        "Hora_salida": "15:57",
+        "Observacion": ""
     }
 ]
