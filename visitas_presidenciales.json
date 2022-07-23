@@ -29506,5 +29506,17 @@
         "Hora_ingreso": "00:01",
         "Hora_salida": "00:30",
         "Observacion": ""
+    },
+    {
+        "Fecha": "23/07/2022",
+        "Visitante": "ZAPATA VIDAURRE JUAN FERNANDO",
+        "Documento": "DNI 10723063",
+        "Entidad": "PARTICULAR",
+        "Motivo": "OTROS: Peluquero",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "07:40",
+        "Hora_salida": "08:22",
+        "Observacion": ""
     }
 ]
