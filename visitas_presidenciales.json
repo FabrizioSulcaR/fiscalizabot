@@ -29578,5 +29578,17 @@
         "Hora_ingreso": "16:52",
         "Hora_salida": "18:16",
         "Observacion": ""
+    },
+    {
+        "Fecha": "24/07/2022",
+        "Visitante": "HUERTA OLIVAS WILLY ARTURO",
+        "Documento": "DNI 44426716",
+        "Entidad": "MINISTERIO DEL INTERIOR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:35",
+        "Hora_salida": "10:57",
+        "Observacion": ""
     }
 ]
