@@ -29590,5 +29590,17 @@
         "Hora_ingreso": "09:35",
         "Hora_salida": "10:57",
         "Observacion": ""
+    },
+    {
+        "Fecha": "24/07/2022",
+        "Visitante": "BOLUARTE ZEGARRA DINA ERCILIA",
+        "Documento": "DNI 06256217",
+        "Entidad": "MINISTERIO DE INCLUSION SOCIAL",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "15:54",
+        "Hora_salida": "18:05",
+        "Observacion": ""
     }
 ]
