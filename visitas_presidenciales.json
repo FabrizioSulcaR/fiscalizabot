@@ -29626,5 +29626,41 @@
         "Hora_ingreso": "10:00",
         "Hora_salida": "10:54",
         "Observacion": ""
+    },
+    {
+        "Fecha": "30/07/2022",
+        "Visitante": "HOLGUIN AGUIRRE JAMES ARTURO",
+        "Documento": "DNI 04810886",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:45",
+        "Hora_salida": "11:28",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "30/07/2022",
+        "Visitante": "GARCIA ROJAS MARIA RUTH",
+        "Documento": "DNI 21553311",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:45",
+        "Hora_salida": "11:28",
+        "Observacion": ""
+    },
+    {
+        "Fecha": "30/07/2022",
+        "Visitante": "BERROSCO DIVIVAY PERCY STEVENS",
+        "Documento": "DNI 76749682",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "09:45",
+        "Hora_salida": "11:27",
+        "Observacion": ""
     }
 ]
