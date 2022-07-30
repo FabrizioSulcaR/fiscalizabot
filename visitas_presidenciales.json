@@ -29614,5 +29614,17 @@
         "Hora_ingreso": "09:00",
         "Hora_salida": "10:19",
         "Observacion": ""
+    },
+    {
+        "Fecha": "30/07/2022",
+        "Visitante": "CORTEZ AGUIRRE ISABEL",
+        "Documento": "DNI 10129700",
+        "Entidad": "CONGRESO DE LA REPUBLICA",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "10:00",
+        "Hora_salida": "10:54",
+        "Observacion": ""
     }
 ]
