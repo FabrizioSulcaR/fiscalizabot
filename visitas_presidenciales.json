@@ -29662,5 +29662,17 @@
         "Hora_ingreso": "09:45",
         "Hora_salida": "11:27",
         "Observacion": ""
+    },
+    {
+        "Fecha": "30/07/2022",
+        "Visitante": "ESPINOZA RAMOS BENJI GREGORY",
+        "Documento": "DNI 45815955",
+        "Entidad": "PARTICULAR",
+        "Motivo": "REUNION DE TRABAJO",
+        "Empleado_publico": "CASTILLO TERRONES JOSE PEDRO",
+        "Oficina_cargo": "PRESIDENCIA DE LA REPÚBLICA",
+        "Hora_ingreso": "11:30",
+        "Hora_salida": "12:01",
+        "Observacion": ""
     }
 ]
